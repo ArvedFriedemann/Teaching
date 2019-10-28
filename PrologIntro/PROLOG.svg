@@ -1,0 +1,2747 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99999 285.75002"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="PROLOG.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1318"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutS"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1439"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-7"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-4"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-2"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-5-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-4-0"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-5-1-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-4-0-1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-6-8"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-1-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-2-0"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-5-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-4-4"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-4-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-7-2"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-58"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-62"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-0-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-6-8-5"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-0-0-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-6-8-5-9"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-0-0-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-6-8-5-4"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-0-0-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-6-8-5-96"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-0-0-1-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-6-8-5-96-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-0-0-0-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-6-8-5-4-5"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-0-0-2-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-6-8-5-9-2"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-0-0-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-6-8-5-43"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-0-0-1-3-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-6-8-5-96-6-8"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-0-0-0-0-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-6-8-5-4-5-3"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-0-0-2-0-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-6-8-5-9-2-8"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-0-0-9-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-6-8-5-43-4"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-0-0-1-3-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-6-8-5-96-6-9"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-0-0-0-0-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-6-8-5-4-5-9"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-0-0-2-0-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-6-8-5-9-2-85"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-0-0-9-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1318-6-8-5-43-43"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="987.61357"
+     inkscape:cy="499.53989"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer31"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer30"
+     inkscape:label="[fixed] White"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect11460"
+       width="511.01932"
+       height="287.04745"
+       x="-0.53453904"
+       y="-0.2283925" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer31"
+     inkscape:label="[export] Intro">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:78.98030853px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.97450769"
+       x="86.170097"
+       y="124.63053"
+       id="text11525"><tspan
+         sodipodi:role="line"
+         id="tspan11523"
+         x="86.170097"
+         y="124.63053"
+         style="stroke-width:1.97450769">PROLOG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.53777504px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5384444"
+       x="115.4363"
+       y="173.12938"
+       id="text11529"><tspan
+         sodipodi:role="line"
+         id="tspan11527"
+         x="115.4363"
+         y="173.12938"
+         style="stroke-width:0.5384444">or how to code with holes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.72448158px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31811202"
+       x="71.152855"
+       y="268.45779"
+       id="text11529-0"><tspan
+         sodipodi:role="line"
+         id="tspan11527-8"
+         x="71.152855"
+         y="268.45779"
+         style="stroke-width:0.31811202">Arved Friedemann, PhD student in Theoretical Computer Science</tspan></text>
+  </g>
+  <g
+     inkscape:label="[export] SlideCodeIntro"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-11.24998)"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.21554375px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.50538856"
+       x="55.057522"
+       y="65.405624"
+       id="text840"><tspan
+         sodipodi:role="line"
+         id="tspan838"
+         x="55.057522"
+         y="65.405624"
+         style="stroke-width:0.50538856">while (not dead) do {</tspan><tspan
+         sodipodi:role="line"
+         x="55.057522"
+         y="90.675056"
+         style="stroke-width:0.50538856"
+         id="tspan848">    if bored do {</tspan><tspan
+         sodipodi:role="line"
+         x="55.057522"
+         y="115.94448"
+         style="stroke-width:0.50538856"
+         id="tspan854">        readBook &quot;Learn you a Haskell&quot;;</tspan><tspan
+         sodipodi:role="line"
+         x="55.057522"
+         y="141.21391"
+         style="stroke-width:0.50538856"
+         id="tspan856">        goJogging;</tspan><tspan
+         sodipodi:role="line"
+         x="55.057522"
+         y="166.48334"
+         style="stroke-width:0.50538856"
+         id="tspan858">        singRealLoudTo &quot;Toto - Africa&quot;;</tspan><tspan
+         sodipodi:role="line"
+         x="55.057522"
+         y="191.75278"
+         style="stroke-width:0.50538856"
+         id="tspan860">    } else {</tspan><tspan
+         sodipodi:role="line"
+         x="55.057522"
+         y="217.0222"
+         style="stroke-width:0.50538856"
+         id="tspan862">        getBackToWork;</tspan><tspan
+         sodipodi:role="line"
+         x="55.057522"
+         y="242.29163"
+         style="stroke-width:0.50538856"
+         id="tspan864">    }</tspan><tspan
+         sodipodi:role="line"
+         x="55.057522"
+         y="267.56107"
+         style="stroke-width:0.50538856"
+         id="tspan844">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.21554375px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.50538856"
+       x="54.841362"
+       y="65.630096"
+       id="text840-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan838-9-21"
+         x="54.841362"
+         y="65.630096"
+         style="stroke-width:0.50538856">while (not dead) do {</tspan><tspan
+         sodipodi:role="line"
+         x="54.841362"
+         y="90.899529"
+         style="stroke-width:0.50538856"
+         id="tspan848-0-9">    if bored do {</tspan><tspan
+         sodipodi:role="line"
+         x="54.841362"
+         y="116.16895"
+         style="stroke-width:0.50538856"
+         id="tspan854-8-9">        readBook &quot;Learn you a Haskell&quot;;</tspan><tspan
+         sodipodi:role="line"
+         x="54.841362"
+         y="141.43839"
+         style="stroke-width:0.50538856"
+         id="tspan856-8-6">        goJogging;</tspan><tspan
+         sodipodi:role="line"
+         x="54.841362"
+         y="166.70781"
+         style="stroke-width:0.50538856"
+         id="tspan858-5-0">        singRealLoudTo &quot;Toto - Africa&quot;;</tspan><tspan
+         sodipodi:role="line"
+         x="54.841362"
+         y="191.97725"
+         style="stroke-width:0.50538856"
+         id="tspan860-0-6">    } else {</tspan><tspan
+         sodipodi:role="line"
+         x="54.841362"
+         y="217.24667"
+         style="stroke-width:0.50538856"
+         id="tspan862-9-4">        getBackToWork;</tspan><tspan
+         sodipodi:role="line"
+         x="54.841362"
+         y="242.5161"
+         style="stroke-width:0.50538856"
+         id="tspan864-6-9">    }</tspan><tspan
+         sodipodi:role="line"
+         x="54.841362"
+         y="267.78552"
+         style="stroke-width:0.50538856"
+         id="tspan844-3-9">}</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="[export] SlideCodeIntroBoom"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.21554375px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.50538856"
+       x="54.846737"
+       y="54.380119"
+       id="text840-3"><tspan
+         sodipodi:role="line"
+         id="tspan838-9"
+         x="54.846737"
+         y="54.380119"
+         style="stroke-width:0.50538856">while (not dead) do {</tspan><tspan
+         sodipodi:role="line"
+         x="54.846737"
+         y="79.649551"
+         style="stroke-width:0.50538856"
+         id="tspan848-0">    if bored do {</tspan><tspan
+         sodipodi:role="line"
+         x="54.846737"
+         y="104.91898"
+         style="stroke-width:0.50538856"
+         id="tspan854-8">        readBook &quot;Learn you a Haskell&quot;;</tspan><tspan
+         sodipodi:role="line"
+         x="54.846737"
+         y="130.18842"
+         style="stroke-width:0.50538856"
+         id="tspan856-8">        goJogging;</tspan><tspan
+         sodipodi:role="line"
+         x="54.846737"
+         y="155.45784"
+         style="stroke-width:0.50538856"
+         id="tspan858-5">        singRealLoudTo &quot;Toto - Africa&quot;;</tspan><tspan
+         sodipodi:role="line"
+         x="54.846737"
+         y="180.72726"
+         style="stroke-width:0.50538856"
+         id="tspan860-0">    } else {</tspan><tspan
+         sodipodi:role="line"
+         x="54.846737"
+         y="205.9967"
+         style="stroke-width:0.50538856"
+         id="tspan862-9">        getBackToWork;</tspan><tspan
+         sodipodi:role="line"
+         x="54.846737"
+         y="231.26613"
+         style="stroke-width:0.50538856"
+         id="tspan864-6">    }</tspan><tspan
+         sodipodi:role="line"
+         x="54.846737"
+         y="256.53555"
+         style="stroke-width:0.50538856"
+         id="tspan844-3">}</tspan></text>
+    <path
+       style="fill:#fff41d;fill-opacity:1;stroke:#4b0900;stroke-width:13.22916698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 49.712131,111.49027 c 32.5535,2.60464 56.198759,-8.73407 56.126599,-57.19568 65.14334,54.23218 113.77014,34.690474 157.68902,-5.879931 39.58539,37.650418 85.91405,58.136121 156.61994,16.570711 -24.59931,29.934187 -50.8312,59.86837 31.53781,89.80256 -61.28643,1.31869 -112.68962,8.81441 -106.37327,52.38483 C 291.38927,161.59951 151.35354,175.5191 73.231846,203.96552 96.275859,154.5355 100.99423,140.77139 49.712131,111.49027 Z"
+       id="path909"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.4217453px;line-height:1.25;font-family:Purisa;-inkscape-font-specification:'Purisa, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16054368"
+       x="158.61716"
+       y="141.1256"
+       id="text913"><tspan
+         sodipodi:role="line"
+         id="tspan911"
+         x="158.61716"
+         y="141.1256"
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.4217453px;font-family:Purisa;-inkscape-font-specification:'Purisa, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.16054368">POOF!</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="[export] SlideCodeIntroX"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.21554375px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.50538856"
+       x="54.814499"
+       y="54.374748"
+       id="text840-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan838-9-2"
+         x="54.814499"
+         y="54.374748"
+         style="stroke-width:0.50538856">while (not dead) do {</tspan><tspan
+         sodipodi:role="line"
+         x="54.814499"
+         y="79.64418"
+         style="stroke-width:0.50538856"
+         id="tspan848-0-0">    if bored do {</tspan><tspan
+         sodipodi:role="line"
+         x="54.814499"
+         y="104.9136"
+         style="stroke-width:0.50538856"
+         id="tspan858-5-2">                </tspan><tspan
+         sodipodi:role="line"
+         x="54.814499"
+         y="130.18304"
+         style="stroke-width:0.50538856"
+         id="tspan987">         X;</tspan><tspan
+         sodipodi:role="line"
+         x="54.814499"
+         y="155.45247"
+         style="stroke-width:0.50538856"
+         id="tspan989">         or Y...or something;</tspan><tspan
+         sodipodi:role="line"
+         x="54.814499"
+         y="180.72189"
+         style="stroke-width:0.50538856"
+         id="tspan860-0-9">    } else {</tspan><tspan
+         sodipodi:role="line"
+         x="54.814499"
+         y="205.99133"
+         style="stroke-width:0.50538856"
+         id="tspan862-9-0">        getBackToWork;</tspan><tspan
+         sodipodi:role="line"
+         x="54.814499"
+         y="231.26076"
+         style="stroke-width:0.50538856"
+         id="tspan864-6-2">    }</tspan><tspan
+         sodipodi:role="line"
+         x="54.814499"
+         y="256.53018"
+         style="stroke-width:0.50538856"
+         id="tspan844-3-8">}</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="[export] TermsWord"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524361"
+       x="73.405968"
+       y="146.40866"
+       id="text851"><tspan
+         sodipodi:role="line"
+         id="tspan849"
+         x="73.405968"
+         y="146.40866"
+         style="stroke-width:0.55524361">The sparrow flies south for winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="307.8945"
+       y="170.82411"
+       id="text855"><tspan
+         sodipodi:role="line"
+         id="tspan853"
+         x="307.8945"
+         y="170.82411"
+         style="stroke-width:0.26458332">- Skulduggery Pleasant (Derek Landy)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="[export] TermsWordMemory"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="73.405968"
+       y="146.40866"
+       id="text851-8"><tspan
+         sodipodi:role="line"
+         id="tspan849-4"
+         x="73.405968"
+         y="146.40866"
+         style="stroke-width:0.55524367">The sparrow flies south for winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="307.8945"
+       y="170.82411"
+       id="text855-8"><tspan
+         sodipodi:role="line"
+         id="tspan853-1"
+         x="307.8945"
+         y="170.82411"
+         style="stroke-width:0.26458332">- Skulduggery Pleasant (Derek Landy)</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect857-0"
+       width="63.610149"
+       height="63.610149"
+       x="41.121338"
+       y="199.68921" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect857-3-3"
+       width="63.610153"
+       height="63.610153"
+       x="114.04773"
+       y="199.68921" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect857-8-0"
+       width="63.610153"
+       height="63.610153"
+       x="186.97415"
+       y="199.68921" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect857-5-4"
+       width="63.610153"
+       height="63.610153"
+       x="259.90054"
+       y="199.68921" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect857-6-4"
+       width="63.610153"
+       height="63.610153"
+       x="332.82693"
+       y="199.68921" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect857-1-4"
+       width="63.610153"
+       height="63.610153"
+       x="405.75336"
+       y="199.68921" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect857-15-4"
+       width="63.610153"
+       height="63.610153"
+       x="478.67975"
+       y="199.68921" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect857-9-7"
+       width="63.610153"
+       height="63.610153"
+       x="-31.805069"
+       y="199.68921" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.09987831px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.65249693"
+       x="49.765648"
+       y="238.16798"
+       id="text912-6"><tspan
+         sodipodi:role="line"
+         id="tspan910-3"
+         x="49.765648"
+         y="238.16798"
+         style="stroke-width:0.65249693">The</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.7194109px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36798528"
+       x="118.01027"
+       y="234.78932"
+       id="text916-1"><tspan
+         sodipodi:role="line"
+         id="tspan914-7"
+         x="118.01027"
+         y="234.78932"
+         style="stroke-width:0.36798528">sparrow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:28.62575912px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.71564394"
+       x="192.879"
+       y="244.42416"
+       id="text920-5"><tspan
+         sodipodi:role="line"
+         id="tspan918-9"
+         x="192.879"
+         y="244.42416"
+         style="stroke-width:0.71564394">flies</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.25906944px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53147668"
+       x="263.73132"
+       y="238.94586"
+       id="text924-6"><tspan
+         sodipodi:role="line"
+         id="tspan922-2"
+         x="263.73132"
+         y="238.94586"
+         style="stroke-width:0.53147668">south</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:44.54311752px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.11357796"
+       x="335.1044"
+       y="248.97052"
+       id="text928-1"><tspan
+         sodipodi:role="line"
+         id="tspan926-7"
+         x="335.1044"
+         y="248.97052"
+         style="stroke-width:1.11357796">for</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.68658829px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4671647"
+       x="409.2381"
+       y="236.31448"
+       id="text932-8"><tspan
+         sodipodi:role="line"
+         id="tspan930-5"
+         x="409.2381"
+         y="236.31448"
+         style="stroke-width:0.4671647">winter</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="[export] TermsWordGraph"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="73.405968"
+       y="146.40866"
+       id="text851-7"><tspan
+         sodipodi:role="line"
+         id="tspan849-41"
+         x="73.405968"
+         y="146.40866"
+         style="stroke-width:0.55524367">The sparrow flies south for winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="307.89453"
+       y="170.82411"
+       id="text855-85"><tspan
+         sodipodi:role="line"
+         id="tspan853-9"
+         x="307.89453"
+         y="170.82411"
+         style="stroke-width:0.26458332">- Skulduggery Pleasant (Derek Landy)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="73.405968"
+       y="146.40866"
+       id="text851-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5"
+         x="73.405968"
+         y="146.40866"
+         style="stroke-width:0.55524367">The sparrow flies south for winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="307.89453"
+       y="170.82411"
+       id="text855-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan853-1-8"
+         x="307.89453"
+         y="170.82411"
+         style="stroke-width:0.26458332">- Skulduggery Pleasant (Derek Landy)</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect857-0-8"
+       width="63.610153"
+       height="63.610153"
+       x="41.121346"
+       y="199.68921" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect857-3-3-3"
+       width="63.610157"
+       height="63.610157"
+       x="114.04774"
+       y="199.68921" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect857-8-0-1"
+       width="63.610157"
+       height="63.610157"
+       x="186.97415"
+       y="199.68921" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect857-5-4-8"
+       width="63.610157"
+       height="63.610157"
+       x="259.90057"
+       y="199.68921" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect857-6-4-9"
+       width="63.610157"
+       height="63.610157"
+       x="332.82697"
+       y="199.68921" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect857-1-4-6"
+       width="63.610157"
+       height="63.610157"
+       x="405.75336"
+       y="199.68921" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect857-15-4-4"
+       width="63.610157"
+       height="63.610157"
+       x="478.67975"
+       y="199.68921" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect857-9-7-3"
+       width="63.610157"
+       height="63.610157"
+       x="-31.805065"
+       y="199.68921" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.09987831px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.65249693"
+       x="49.765648"
+       y="238.16798"
+       id="text912-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan910-3-3"
+         x="49.765648"
+         y="238.16798"
+         style="stroke-width:0.65249693">The</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.7194109px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36798528"
+       x="118.01028"
+       y="234.78932"
+       id="text916-1-8"><tspan
+         sodipodi:role="line"
+         id="tspan914-7-6"
+         x="118.01028"
+         y="234.78932"
+         style="stroke-width:0.36798528">sparrow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:28.62575912px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.71564394"
+       x="192.87901"
+       y="244.42416"
+       id="text920-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan918-9-4"
+         x="192.87901"
+         y="244.42416"
+         style="stroke-width:0.71564394">flies</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.25907135px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53147668"
+       x="263.73132"
+       y="238.94586"
+       id="text924-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan922-2-8"
+         x="263.73132"
+         y="238.94586"
+         style="stroke-width:0.53147668">south</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:44.54311752px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.11357796"
+       x="335.10443"
+       y="248.97052"
+       id="text928-1-8"><tspan
+         sodipodi:role="line"
+         id="tspan926-7-9"
+         x="335.10443"
+         y="248.97052"
+         style="stroke-width:1.11357796">for</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.68658829px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4671647"
+       x="409.2381"
+       y="236.31448"
+       id="text932-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan930-5-7"
+         x="409.2381"
+         y="236.31448"
+         style="stroke-width:0.4671647">winter</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.63440597;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 299.4262,37.589363 -63.85,9.781608"
+       id="path1289"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.63440597;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-4)"
+       d="m 200.90242,59.828651 -40.61457,7.594597"
+       id="path1289-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.63440597;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5)"
+       d="M 140.80604,76.338645 128.25845,88.556039"
+       id="path1289-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.63440597;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-1)"
+       d="M 239.86601,65.11185 256.376,84.59364"
+       id="path1289-89"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.63440597;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-3)"
+       d="m 336.35842,44.747557 26.41599,15.189194"
+       id="path1289-80"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.63440597;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path1116"
+       cx="120.80817"
+       cy="102.34925"
+       rx="19.646893"
+       ry="19.646898" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.12263107px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40306577"
+       x="105.56849"
+       y="108.16596"
+       id="text912-6-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan910-3-3-4"
+         x="105.56849"
+         y="108.16596"
+         style="stroke-width:0.40306577">The</tspan></text>
+    <ellipse
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.63440597;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path1116-3"
+       cx="319.521"
+       cy="33.940876"
+       rx="19.646894"
+       ry="19.646898" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:27.51553917px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.68788856"
+       x="301.4025"
+       y="44.231659"
+       id="text928-1-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan926-7-9-0"
+         x="301.4025"
+         y="44.231659"
+         style="stroke-width:0.68788856">for</tspan></text>
+    <ellipse
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.63440597;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path1116-3-9"
+       cx="378.95697"
+       cy="68.281662"
+       rx="19.646896"
+       ry="19.646898" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.54323292px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28858081"
+       x="361.18225"
+       y="72.679634"
+       id="text932-8-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan930-5-7-5"
+         x="361.18225"
+         y="72.679634"
+         style="stroke-width:0.28858081">winter</tspan></text>
+    <ellipse
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.63440597;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path1116-3-4"
+       cx="221.37759"
+       cy="56.286366"
+       rx="19.646896"
+       ry="19.646898" />
+    <ellipse
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.63440597;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path1116-3-0"
+       cx="262.65259"
+       cy="99.212349"
+       rx="19.646896"
+       ry="19.646898" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.63440597;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5-1)"
+       d="M 159.60793,77.293355 173.14614,90.50135"
+       id="path1289-8-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.63440597;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path1116-3-5"
+       cx="183.7348"
+       cy="103.17476"
+       rx="19.646896"
+       ry="19.646898" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.09259605px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22731489"
+       x="166.08365"
+       y="105.32633"
+       id="text916-1-8-9"><tspan
+         sodipodi:role="line"
+         id="tspan914-7-6-4"
+         x="166.08365"
+         y="105.32633"
+         style="stroke-width:0.22731489">sparrow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.68293953px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.44207343"
+       x="203.87903"
+       y="61.342976"
+       id="text920-5-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan918-9-4-9"
+         x="203.87903"
+         y="61.342976"
+         style="stroke-width:0.44207343">flies</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.13232803px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32830814"
+       x="245.14796"
+       y="104.02346"
+       id="text924-6-8-2"><tspan
+         sodipodi:role="line"
+         id="tspan922-2-8-2"
+         x="245.14796"
+         y="104.02346"
+         style="stroke-width:0.32830814">south</tspan></text>
+    <circle
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.12015057;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path1116-3-5-2"
+       cx="150.87994"
+       cy="68.668861"
+       r="13.465127" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="[export] TermsWordBrackets"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="307.89453"
+       y="170.8241"
+       id="text855-85-7"><tspan
+         sodipodi:role="line"
+         id="tspan853-9-2"
+         x="307.89453"
+         y="170.8241"
+         style="stroke-width:0.26458332">- Skulduggery Pleasant (Derek Landy)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="59.118446"
+       y="146.40866"
+       id="text851-8-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0"
+         x="59.118446"
+         y="146.40866"
+         style="stroke-width:0.55524367">((The sparrow) flies south) for winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="307.89453"
+       y="170.8241"
+       id="text855-8-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan853-1-8-2"
+         x="307.89453"
+         y="170.8241"
+         style="stroke-width:0.26458332">- Skulduggery Pleasant (Derek Landy)</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.63440597;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-58)"
+       d="M 299.42619,37.589362 235.5762,47.370969"
+       id="path1289-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.63440597;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-4-6)"
+       d="m 200.90241,59.828651 -40.61457,7.594595"
+       id="path1289-7-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.63440597;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5-6)"
+       d="M 140.80603,76.338643 128.25844,88.556038"
+       id="path1289-8-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.63440597;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-5)"
+       d="m 239.866,65.111848 16.51,19.481792"
+       id="path1289-89-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.63440597;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-0)"
+       d="M 336.35843,44.747554 362.7744,59.936749"
+       id="path1289-80-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.63440597;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path1116-0"
+       cx="120.80815"
+       cy="102.34925"
+       rx="19.646893"
+       ry="19.646898" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.12263107px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40306577"
+       x="105.56848"
+       y="108.16596"
+       id="text912-6-3-6-0"><tspan
+         sodipodi:role="line"
+         id="tspan910-3-3-4-4"
+         x="105.56848"
+         y="108.16596"
+         style="stroke-width:0.40306577">The</tspan></text>
+    <ellipse
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.63440597;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path1116-3-6"
+       cx="319.521"
+       cy="33.940876"
+       rx="19.646894"
+       ry="19.646898" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:27.51554108px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.68788856"
+       x="301.4025"
+       y="44.231659"
+       id="text928-1-8-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan926-7-9-0-6"
+         x="301.4025"
+         y="44.231659"
+         style="stroke-width:0.68788856">for</tspan></text>
+    <ellipse
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.63440597;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path1116-3-9-7"
+       cx="378.95697"
+       cy="68.281662"
+       rx="19.646896"
+       ry="19.646898" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.54323292px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28858081"
+       x="361.18225"
+       y="72.679634"
+       id="text932-8-7-2-5"><tspan
+         sodipodi:role="line"
+         id="tspan930-5-7-5-6"
+         x="361.18225"
+         y="72.679634"
+         style="stroke-width:0.28858081">winter</tspan></text>
+    <ellipse
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.63440597;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path1116-3-4-9"
+       cx="221.37758"
+       cy="56.286366"
+       rx="19.646896"
+       ry="19.646898" />
+    <ellipse
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.63440597;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path1116-3-0-8"
+       cx="262.65256"
+       cy="99.212357"
+       rx="19.646896"
+       ry="19.646898" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.63440597;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5-1-1)"
+       d="M 159.60792,77.293355 173.14613,90.50135"
+       id="path1289-8-5-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.63440597;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path1116-3-5-28"
+       cx="183.73479"
+       cy="103.17477"
+       rx="19.646896"
+       ry="19.646898" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.09259605px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22731489"
+       x="166.08363"
+       y="105.32634"
+       id="text916-1-8-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan914-7-6-4-9"
+         x="166.08363"
+         y="105.32634"
+         style="stroke-width:0.22731489">sparrow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.68293953px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.44207343"
+       x="203.87903"
+       y="61.342972"
+       id="text920-5-0-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan918-9-4-9-6"
+         x="203.87903"
+         y="61.342972"
+         style="stroke-width:0.44207343">flies</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.13232803px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32830814"
+       x="245.14793"
+       y="104.02346"
+       id="text924-6-8-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan922-2-8-2-2"
+         x="245.14793"
+         y="104.02346"
+         style="stroke-width:0.32830814">south</tspan></text>
+    <circle
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.12015069;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.15384626;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path1116-3-5-2-7"
+       cx="150.87993"
+       cy="68.668861"
+       r="13.465127" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="[export] TermsWordVars"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="308.08029"
+       y="249.32498"
+       id="text855-85-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan853-9-2-1"
+         x="308.08029"
+         y="249.32498"
+         style="stroke-width:0.26458332">- Skulduggery Pleasant (Derek Landy)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="59.304195"
+       y="224.90955"
+       id="text851-8-7-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2"
+         x="59.304195"
+         y="224.90955"
+         style="stroke-width:0.55524367">((The sparrow) flies south) for winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="308.08029"
+       y="249.32498"
+       id="text855-8-3-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan853-1-8-2-5"
+         x="308.08029"
+         y="249.32498"
+         style="stroke-width:0.26458332">- Skulduggery Pleasant (Derek Landy)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="123.29844"
+       y="149.03432"
+       id="text851-8-7-4-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-9"
+         x="123.29844"
+         y="149.03432"
+         style="stroke-width:0.55524367">(X flies south) for winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="83.742546"
+       y="189.12473"
+       id="text851-8-7-4-3-1"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-4"
+         x="83.742546"
+         y="189.12473"
+         style="stroke-width:0.55524367">((The sparrow) flies X) for winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="147.88722"
+       y="110.01295"
+       id="text851-8-7-4-3-91"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-0"
+         x="147.88722"
+         y="110.01295"
+         style="stroke-width:0.55524367">(X flies Y) for winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="218.4464"
+       y="30.366632"
+       id="text851-8-7-4-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-5"
+         x="218.4464"
+         y="30.366632"
+         style="stroke-width:0.55524367">X for Y.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="169.80333"
+       y="70.457062"
+       id="text851-8-7-4-3-8"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-7"
+         x="169.80333"
+         y="70.457062"
+         style="stroke-width:0.55524367">(X flies Y) for Z.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="[export] TermsWordMatching"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="8.1039505"
+       y="39.809158"
+       id="text851-8-7-4-3-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-9-2"
+         x="8.1039505"
+         y="39.809158"
+         style="stroke-width:0.55524367">(X flies south) for Z.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="283.57812"
+       y="38.740059"
+       id="text851-8-7-4-3-91-2"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-0-2"
+         x="283.57812"
+         y="38.740059"
+         style="stroke-width:0.55524367">(X flies Y) for winter.</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3.56632328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-0-0)"
+       d="m 124.82747,44.967049 79.55654,47.041289"
+       id="path1289-80-4-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3.56632328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-0-0-2)"
+       d="M 422.10404,43.774921 337.02256,87.608995"
+       id="path1289-80-4-5-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="112.07312"
+       y="110.54749"
+       id="text851-8-7-4-3-80-2"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-8"
+         x="112.07312"
+         y="110.54749"
+         style="stroke-width:0.55524367">(X flies south) for winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.94063759px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37351596"
+       x="229.13425"
+       y="64.000114"
+       id="text851-8-7-4-3-9-4-5"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-9-2-4"
+         x="229.13425"
+         y="64.000114"
+         style="stroke-width:0.37351596">Y = south.</tspan><tspan
+         sodipodi:role="line"
+         x="229.13425"
+         y="82.675911"
+         style="stroke-width:0.37351596"
+         id="tspan9647">Z = winter.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="[export] TermsWordMatching 2"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="308.20773"
+       y="249.79236"
+       id="text855-85-7-6-0-5"><tspan
+         sodipodi:role="line"
+         id="tspan853-9-2-1-4-1"
+         x="308.20773"
+         y="249.79236"
+         style="stroke-width:0.26458332">- Skulduggery Pleasant (Derek Landy)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="59.43174"
+       y="225.37694"
+       id="text851-8-7-4-3-80-7"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4"
+         x="59.43174"
+         y="225.37694"
+         style="stroke-width:0.55524367">((The sparrow) flies south) for winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="308.20773"
+       y="249.79236"
+       id="text855-8-3-6-1-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan853-1-8-2-5-6-1"
+         x="308.20773"
+         y="249.79236"
+         style="stroke-width:0.26458332">- Skulduggery Pleasant (Derek Landy)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="8.2261591"
+       y="40.014931"
+       id="text851-8-7-4-3-9-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-9-2-6"
+         x="8.2261591"
+         y="40.014931"
+         style="stroke-width:0.55524367">(X flies south) for Z.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="283.7002"
+       y="38.945831"
+       id="text851-8-7-4-3-91-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-0-2-4"
+         x="283.7002"
+         y="38.945831"
+         style="stroke-width:0.55524367">(X flies Y) for winter.</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3.56632328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-0-0-9)"
+       d="m 124.94961,45.172821 79.55655,47.04129"
+       id="path1289-80-4-5-22"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3.56632328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-0-0-2-0)"
+       d="M 422.2262,43.980693 337.14472,87.814767"
+       id="path1289-80-4-5-0-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="112.19535"
+       y="110.75327"
+       id="text851-8-7-4-3-80-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-8-1"
+         x="112.19535"
+         y="110.75327"
+         style="stroke-width:0.55524367">(X flies south) for winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="9.8297682"
+       y="170.44244"
+       id="text851-8-7-4-3-80-2-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-8-8-8"
+         x="9.8297682"
+         y="170.44244"
+         style="stroke-width:0.55524367">((The sparrow) A) B.</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3.56632328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-0-0-0-0)"
+       d="m 127.87073,175.08569 45.34604,32.60874"
+       id="path1289-80-4-5-09-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3.56632328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-0-0-1-3)"
+       d="m 276.47261,116.2864 2.04838,84.99357"
+       id="path1289-80-4-5-2-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.94063759px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37351596"
+       x="229.25662"
+       y="64.205887"
+       id="text851-8-7-4-3-9-4-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-9-2-4-8"
+         x="229.25662"
+         y="64.205887"
+         style="stroke-width:0.37351596">Y = south.</tspan><tspan
+         sodipodi:role="line"
+         x="229.25662"
+         y="82.881683"
+         style="stroke-width:0.37351596"
+         id="tspan9647-8">Z = winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.94063759px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37351596"
+       x="327.10736"
+       y="157.38499"
+       id="text851-8-7-4-3-9-4-5-4-8"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-9-2-4-9-6"
+         x="327.10736"
+         y="157.38499"
+         style="stroke-width:0.37351596">A = flies south.</tspan><tspan
+         sodipodi:role="line"
+         x="327.10736"
+         y="176.06079"
+         style="stroke-width:0.37351596"
+         id="tspan9647-9-8">B = for winter.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="[export] Rules"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="25.755775"
+       y="136.10893"
+       id="text851-8-7-4-3-80-7-8"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9"
+         x="25.755775"
+         y="136.10893"
+         style="stroke-width:0.55524367">(The sparrow) flies X :- X is nice.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="[export] RulesWithFacts"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="25.917889"
+       y="136.19998"
+       id="text851-8-7-4-3-80-7-8-6"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0"
+         x="25.917889"
+         y="136.19998"
+         style="stroke-width:0.55524367">(The sparrow) flies X :- X is nice.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="25.92326"
+       y="103.59848"
+       id="text851-8-7-4-3-80-7-8-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-1"
+         x="25.92326"
+         y="103.59848"
+         style="stroke-width:0.55524367">east is nice.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="25.054855"
+       y="77.956802"
+       id="text851-8-7-4-3-80-7-8-6-4-0"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-1-4"
+         x="25.054855"
+         y="77.956802"
+         style="stroke-width:0.55524367">south is nice.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="[export] RulesWithMoreFacts"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="21.207268"
+       y="85.436325"
+       id="text851-8-7-4-3-80-7-8-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-7"
+         x="21.207268"
+         y="85.436325"
+         style="stroke-width:0.55524367">(The sparrow) flies X :- X is nice.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="22.117868"
+       y="52.834839"
+       id="text851-8-7-4-3-80-7-8-6-4-08"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-1-6"
+         x="22.117868"
+         y="52.834839"
+         style="stroke-width:0.55524367">east is nice.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="22.562063"
+       y="27.193153"
+       id="text851-8-7-4-3-80-7-8-6-4-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-1-4-4"
+         x="22.562063"
+         y="27.193153"
+         style="stroke-width:0.55524367">south is nice.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="23.250565"
+       y="191.79742"
+       id="text851-8-7-4-3-80-7-8-6-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-7-9"
+         x="23.250565"
+         y="191.79742"
+         style="stroke-width:0.55524367">((The sparrow) flies X) for Y :- </tspan><tspan
+         sodipodi:role="line"
+         x="23.250565"
+         y="219.5596"
+         style="stroke-width:0.55524367"
+         id="tspan10268">                                         ((The sparrow) flies X),</tspan><tspan
+         sodipodi:role="line"
+         x="23.250565"
+         y="247.32179"
+         style="stroke-width:0.55524367"
+         id="tspan10270">                                          X suits Y.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="22.562063"
+       y="160.81036"
+       id="text851-8-7-4-3-80-7-8-6-4-0-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-1-4-4-9"
+         x="22.562063"
+         y="160.81036"
+         style="stroke-width:0.55524367">south suits winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="22.650902"
+       y="134.0834"
+       id="text851-8-7-4-3-80-7-8-6-4-0-2-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-1-4-4-9-8"
+         x="22.650902"
+         y="134.0834"
+         style="stroke-width:0.55524367">west suits summer.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="[export] RulesResults"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="21.367678"
+       y="85.469482"
+       id="text851-8-7-4-3-80-7-8-6-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-7-0"
+         x="21.367678"
+         y="85.469482"
+         style="stroke-width:0.55524367">(The sparrow) flies X :- X is nice.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="22.278278"
+       y="52.868"
+       id="text851-8-7-4-3-80-7-8-6-4-08-1"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-1-6-7"
+         x="22.278278"
+         y="52.868"
+         style="stroke-width:0.55524367">east is nice.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="22.722473"
+       y="27.226315"
+       id="text851-8-7-4-3-80-7-8-6-4-0-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-1-4-4-91"
+         x="22.722473"
+         y="27.226315"
+         style="stroke-width:0.55524367">south is nice.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="23.410975"
+       y="191.8306"
+       id="text851-8-7-4-3-80-7-8-6-8-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-7-9-4"
+         x="23.410975"
+         y="191.8306"
+         style="stroke-width:0.55524367">((The sparrow) flies X) for Y :- </tspan><tspan
+         sodipodi:role="line"
+         x="23.410975"
+         y="219.59277"
+         style="stroke-width:0.55524367"
+         id="tspan10268-9">                                         ((The sparrow) flies X),</tspan><tspan
+         sodipodi:role="line"
+         x="23.410975"
+         y="247.35497"
+         style="stroke-width:0.55524367"
+         id="tspan10270-2">                                          X suits Y.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="22.722473"
+       y="160.84354"
+       id="text851-8-7-4-3-80-7-8-6-4-0-2-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-1-4-4-9-7"
+         x="22.722473"
+         y="160.84354"
+         style="stroke-width:0.55524367">south suits winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="22.811312"
+       y="134.11656"
+       id="text851-8-7-4-3-80-7-8-6-4-0-2-3-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-1-4-4-9-8-9"
+         x="22.811312"
+         y="134.11656"
+         style="stroke-width:0.55524367">west suits summer.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.46110249px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3865276"
+       x="308.40521"
+       y="24.629234"
+       id="text851-8-7-4-3-80-7-8-6-4-08-1-9"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-1-6-7-4"
+         x="308.40521"
+         y="24.629234"
+         style="stroke-width:0.3865276">(The sparrow) flies south.</tspan><tspan
+         sodipodi:role="line"
+         x="308.40521"
+         y="43.955612"
+         style="stroke-width:0.3865276"
+         id="tspan10381">(The sparrow) flies east.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.46110344px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3865276"
+       x="238.67368"
+       y="130.43465"
+       id="text851-8-7-4-3-80-7-8-6-4-08-1-9-5"><tspan
+         sodipodi:role="line"
+         x="238.67368"
+         y="130.43465"
+         style="stroke-width:0.3865276"
+         id="tspan10381-3">((The sparrow) flies south) for winter.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="[export] RulesQueries"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="16.61342"
+       y="47.78941"
+       id="text851-8-7-4-3-80-7-8-6-4-0-2-3-2-4-5"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-1-4-4-9-8-9-7"
+         x="16.61342"
+         y="47.78941"
+         style="stroke-width:0.55524367">((The sparrow) flies X) for winter? </tspan><tspan
+         sodipodi:role="line"
+         x="16.61342"
+         y="75.55159"
+         style="stroke-width:0.55524367"
+         id="tspan10425">                 - ((The sparrow) flies south) for winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="11.952617"
+       y="118.04797"
+       id="text851-8-7-4-3-80-7-8-6-4-0-2-3-2-4-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-1-4-4-9-8-9-7-8"
+         x="11.952617"
+         y="118.04797"
+         style="stroke-width:0.55524367">((The sparrow) flies south) for X? </tspan><tspan
+         sodipodi:role="line"
+         x="11.952617"
+         y="145.81015"
+         style="stroke-width:0.55524367"
+         id="tspan10425-1">                 - ((The sparrow) flies south) for winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="9.2799129"
+       y="185.39989"
+       id="text851-8-7-4-3-80-7-8-6-4-0-2-3-2-4-5-0-9"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-1-4-4-9-8-9-7-8-9"
+         x="9.2799129"
+         y="185.39989"
+         style="stroke-width:0.55524367">((The sparrow) flies east) for X? </tspan><tspan
+         sodipodi:role="line"
+         x="9.2799129"
+         y="213.16206"
+         style="stroke-width:0.55524367"
+         id="tspan10425-1-7">                 - It doesn't.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="[export] Application"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="28.504904"
+       y="41.869381"
+       id="text851-8-7-4-3-80-7-8-6-4-0-2-3-2-4-5-0-9-8"><tspan
+         sodipodi:role="line"
+         x="28.504904"
+         y="41.869381"
+         style="stroke-width:0.55524367"
+         id="tspan10497">(X : XS) contains X.</tspan><tspan
+         sodipodi:role="line"
+         x="28.504904"
+         y="69.631561"
+         style="stroke-width:0.55524367"
+         id="tspan10501">(Y : XS) contains X :- XS contains X.</tspan><tspan
+         sodipodi:role="line"
+         x="28.504904"
+         y="97.393745"
+         style="stroke-width:0.55524367"
+         id="tspan10503" /><tspan
+         sodipodi:role="line"
+         x="28.504904"
+         y="125.15593"
+         style="stroke-width:0.55524367"
+         id="tspan10505">XS has no dubs :- not (XS contains X1,</tspan><tspan
+         sodipodi:role="line"
+         x="28.504904"
+         y="152.91811"
+         style="stroke-width:0.55524367"
+         id="tspan10507">                                             XS contains X2,</tspan><tspan
+         sodipodi:role="line"
+         x="28.504904"
+         y="180.68028"
+         style="stroke-width:0.55524367"
+         id="tspan10509">                                              X1 = X2).</tspan><tspan
+         sodipodi:role="line"
+         x="28.504904"
+         y="208.44247"
+         style="stroke-width:0.55524367"
+         id="tspan10511" /><tspan
+         sodipodi:role="line"
+         x="28.504904"
+         y="236.20465"
+         style="stroke-width:0.55524367"
+         id="tspan10513">[] length is 0.</tspan><tspan
+         sodipodi:role="line"
+         x="28.504904"
+         y="263.96683"
+         style="stroke-width:0.55524367"
+         id="tspan10515">(X : XS) length is (1+ K) :- XS length is K.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="351.19214"
+       y="179.91127"
+       id="text11006"><tspan
+         sodipodi:role="line"
+         id="tspan11004"
+         x="351.19214"
+         y="179.91127"
+         style="stroke-width:0.26458332">and a few more details...</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer17"
+     inkscape:label="[export] Application 2"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="28.521297"
+       y="37.266178"
+       id="text851-8-7-4-3-80-7-8-6-4-0-2-3-2-4-5-0-9-8-3"><tspan
+         sodipodi:role="line"
+         x="28.521297"
+         y="37.266178"
+         style="stroke-width:0.55524367"
+         id="tspan10515-2">X contains 1, X contains 2, X has no dubs?</tspan><tspan
+         sodipodi:role="line"
+         x="28.521297"
+         y="65.028358"
+         style="stroke-width:0.55524367"
+         id="tspan10650">  - [1,2 | REST].</tspan><tspan
+         sodipodi:role="line"
+         x="28.521297"
+         y="92.790543"
+         style="stroke-width:0.55524367"
+         id="tspan10658">  - [2,1 | REST].</tspan><tspan
+         sodipodi:role="line"
+         x="28.521297"
+         y="120.55273"
+         style="stroke-width:0.55524367"
+         id="tspan11016" /><tspan
+         sodipodi:role="line"
+         x="28.521297"
+         y="148.31491"
+         style="stroke-width:0.55524367"
+         id="tspan10660">X contains 1, X contains 1, X has no dubs?</tspan><tspan
+         sodipodi:role="line"
+         x="28.521297"
+         y="176.07709"
+         style="stroke-width:0.55524367"
+         id="tspan10662">  - [1 | REST].</tspan><tspan
+         sodipodi:role="line"
+         x="28.521297"
+         y="203.83926"
+         style="stroke-width:0.55524367"
+         id="tspan11014" /><tspan
+         sodipodi:role="line"
+         x="28.521297"
+         y="231.60146"
+         style="stroke-width:0.55524367"
+         id="tspan11010">X contains 1, X contains 2, X length is 1?</tspan><tspan
+         sodipodi:role="line"
+         x="28.521297"
+         y="259.36365"
+         style="stroke-width:0.55524367"
+         id="tspan11012">  - Nope.</tspan><tspan
+         sodipodi:role="line"
+         x="28.521297"
+         y="287.12582"
+         style="stroke-width:0.55524367"
+         id="tspan11008" /><tspan
+         sodipodi:role="line"
+         x="28.521297"
+         y="314.888"
+         style="stroke-width:0.55524367"
+         id="tspan10654" /><tspan
+         sodipodi:role="line"
+         x="28.521297"
+         y="342.65018"
+         style="stroke-width:0.55524367"
+         id="tspan10656" /><tspan
+         sodipodi:role="line"
+         x="28.521297"
+         y="370.41235"
+         style="stroke-width:0.55524367"
+         id="tspan10648" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer18"
+     inkscape:label="[export] RealPROLOG"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="51.135666"
+       y="129.79091"
+       id="text851-8-7-4-3-80-7-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-7-4"
+         x="51.135666"
+         y="129.79091"
+         style="stroke-width:0.55524367">This is a sentence.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer19"
+     inkscape:label="[export] RealPROLOG 2"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="51.347569"
+       y="129.8017"
+       id="text851-8-7-4-3-80-7-6-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-7-4-6"
+         x="51.347569"
+         y="129.8017"
+         style="stroke-width:0.55524367">This is a sentence. ~&gt; This(is,a,sentence).</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer20"
+     inkscape:label="[export] RealPROLOG 3"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="51.977386"
+       y="42.399162"
+       id="text851-8-7-4-3-80-7-6-7-0-4"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-7-4-6-8"
+         x="51.977386"
+         y="42.399162"
+         style="stroke-width:0.55524367">This is a sentence. ~&gt; This(is,a,sentence).</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="39.910343"
+       y="108.40933"
+       id="text851-8-7-4-3-80-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-6"
+         x="39.910343"
+         y="108.40933"
+         style="stroke-width:0.55524367">((The sparrow) flies south) for winter.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer21"
+     inkscape:label="[export] RealPROLOG 4"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="51.82563"
+       y="42.530098"
+       id="text851-8-7-4-3-80-7-6-7-0-4-6"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-7-4-6-8-4"
+         x="51.82563"
+         y="42.530098"
+         style="stroke-width:0.55524367">This is a sentence. ~&gt; This(is,a,sentence).</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="38.250248"
+       y="145.15079"
+       id="text851-8-7-4-3-80-7-6-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-7-8-2"
+         x="38.250248"
+         y="145.15079"
+         style="stroke-width:0.55524367">((The(sparrow))(flies,south))(for,winter).</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="39.758587"
+       y="108.54027"
+       id="text851-8-7-4-3-80-7-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-6-9"
+         x="39.758587"
+         y="108.54027"
+         style="stroke-width:0.55524367">((The sparrow) flies south) for winter.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer22"
+     inkscape:label="[export] RealPROLOG 5"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="51.820259"
+       y="42.530094"
+       id="text851-8-7-4-3-80-7-6-7-0-4-7"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-7-4-6-8-0"
+         x="51.820259"
+         y="42.530094"
+         style="stroke-width:0.55524367">This is a sentence. ~&gt; This(is,a,sentence).</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="38.244881"
+       y="145.15079"
+       id="text851-8-7-4-3-80-7-6-5-1"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-7-8-0"
+         x="38.244881"
+         y="145.15079"
+         style="stroke-width:0.55524367">((The(sparrow))(flies,south))(for,winter).</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="39.753216"
+       y="108.54029"
+       id="text851-8-7-4-3-80-7-2-1"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-6-3"
+         x="39.753216"
+         y="108.54029"
+         style="stroke-width:0.55524367">((The sparrow) flies south) for winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="38.265892"
+       y="180.70303"
+       id="text851-8-7-4-3-80-7-6-5-0-7"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-7-8-6-7"
+         x="38.265892"
+         y="180.70303"
+         style="stroke-width:0.55524367">for(flies(The(sparrow),south),winter).</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer29"
+     inkscape:label="[export] Intermezzo"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="28.67259"
+       y="42.028687"
+       id="text851-8-7-4-3-80-7-8-6-4-0-2-3-2-4-5-0-9-8-4"><tspan
+         sodipodi:role="line"
+         x="28.67259"
+         y="42.028687"
+         style="stroke-width:0.55524367"
+         id="tspan10497-8">contains(X : XS, X).</tspan><tspan
+         sodipodi:role="line"
+         x="28.67259"
+         y="69.790871"
+         style="stroke-width:0.55524367"
+         id="tspan10501-0">contains(Y : XS, X) :- contains(XS, X).</tspan><tspan
+         sodipodi:role="line"
+         x="28.67259"
+         y="97.553047"
+         style="stroke-width:0.55524367"
+         id="tspan10503-8" /><tspan
+         sodipodi:role="line"
+         x="28.67259"
+         y="125.31523"
+         style="stroke-width:0.55524367"
+         id="tspan10505-1">has_no_dubs(XS) :- not (contains(XS, X1),</tspan><tspan
+         sodipodi:role="line"
+         x="28.67259"
+         y="153.07741"
+         style="stroke-width:0.55524367"
+         id="tspan10507-0">                                                  contains(XS, X2),</tspan><tspan
+         sodipodi:role="line"
+         x="28.67259"
+         y="180.8396"
+         style="stroke-width:0.55524367"
+         id="tspan10509-2">                                                   X1 = X2).</tspan><tspan
+         sodipodi:role="line"
+         x="28.67259"
+         y="208.60178"
+         style="stroke-width:0.55524367"
+         id="tspan10511-2" /><tspan
+         sodipodi:role="line"
+         x="28.67259"
+         y="236.36395"
+         style="stroke-width:0.55524367"
+         id="tspan10513-9">length([], 0).</tspan><tspan
+         sodipodi:role="line"
+         x="28.67259"
+         y="264.12613"
+         style="stroke-width:0.55524367"
+         id="tspan10515-7">length(X : XS, 1+ K) :- length(XS, K).</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="344.9454"
+       y="201.98668"
+       id="text11006-5"><tspan
+         sodipodi:role="line"
+         id="tspan11004-6"
+         x="344.9454"
+         y="201.98668"
+         style="stroke-width:0.26458332">and a few more details...</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer23"
+     inkscape:label="[export] RealPROLOG 6"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="51.831001"
+       y="42.524734"
+       id="text851-8-7-4-3-80-7-6-7-0-4-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-7-4-6-8-0-6"
+         x="51.831001"
+         y="42.524734"
+         style="stroke-width:0.55524367">This is a sentence. ~&gt; This(is,a,sentence).</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="38.255623"
+       y="145.14542"
+       id="text851-8-7-4-3-80-7-6-5-1-4"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-7-8-0-5"
+         x="38.255623"
+         y="145.14542"
+         style="stroke-width:0.55524367">((The(sparrow))(flies,south))(for,winter).</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="39.763958"
+       y="108.53493"
+       id="text851-8-7-4-3-80-7-2-1-2"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-6-3-0"
+         x="39.763958"
+         y="108.53493"
+         style="stroke-width:0.55524367">((The sparrow) flies south) for winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="38.276634"
+       y="180.69765"
+       id="text851-8-7-4-3-80-7-6-5-0-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-7-8-6-7-9"
+         x="38.276634"
+         y="180.69765"
+         style="stroke-width:0.55524367">for(flies(The(sparrow),south),winter).</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.20983124px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="37.356922"
+       y="236.69872"
+       id="text851-8-7-4-3-80-7-6-5-0-7-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-7-8-6-7-9-9"
+         x="37.356922"
+         y="236.69872"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.20983124px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.55524367">Welcome to real life PROLOG </tspan><tspan
+         sodipodi:role="line"
+         x="37.356922"
+         y="264.461"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.20983124px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.55524367"
+         id="tspan11002">(and so many other languages -.-)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer25"
+     inkscape:label="[export] What have we learned?"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="76.259003"
+       y="139.94714"
+       id="text851-8-7-4-3-80-7-2-1-2-1"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-6-3-0-1"
+         x="76.259003"
+         y="139.94714"
+         style="stroke-width:0.55524367">What have we learned?</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer24"
+     inkscape:label="[export] Conclusion 1"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="308.2077"
+       y="249.79236"
+       id="text855-85-7-6-0-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan853-9-2-1-4-1-1"
+         x="308.2077"
+         y="249.79236"
+         style="stroke-width:0.26458332">- Skulduggery Pleasant (Derek Landy)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="59.431736"
+       y="225.37695"
+       id="text851-8-7-4-3-80-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-8"
+         x="59.431736"
+         y="225.37695"
+         style="stroke-width:0.55524367">((The sparrow) flies south) for winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="308.2077"
+       y="249.79236"
+       id="text855-8-3-6-1-9-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan853-1-8-2-5-6-1-9"
+         x="308.2077"
+         y="249.79236"
+         style="stroke-width:0.26458332">- Skulduggery Pleasant (Derek Landy)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="8.2261543"
+       y="40.014931"
+       id="text851-8-7-4-3-9-4-4-7"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-9-2-6-9"
+         x="8.2261543"
+         y="40.014931"
+         style="stroke-width:0.55524367">(X flies south) for Z.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="283.7002"
+       y="38.945831"
+       id="text851-8-7-4-3-91-2-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-0-2-4-3"
+         x="283.7002"
+         y="38.945831"
+         style="stroke-width:0.55524367">(X flies Y) for winter.</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3.56632328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-0-0-9-8)"
+       d="m 124.94961,45.172821 79.55655,47.04129"
+       id="path1289-80-4-5-22-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3.56632328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-0-0-2-0-8)"
+       d="M 422.2262,43.980693 337.14472,87.814767"
+       id="path1289-80-4-5-0-6-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="112.19535"
+       y="110.75327"
+       id="text851-8-7-4-3-80-2-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-8-1-7"
+         x="112.19535"
+         y="110.75327"
+         style="stroke-width:0.55524367">(X flies south) for winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="9.8297615"
+       y="170.44246"
+       id="text851-8-7-4-3-80-2-3-2-1"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-8-8-8-2"
+         x="9.8297615"
+         y="170.44246"
+         style="stroke-width:0.55524367">((The sparrow) A) B.</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3.56632328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-0-0-0-0-0)"
+       d="m 127.87073,175.08569 45.34604,32.60874"
+       id="path1289-80-4-5-09-8-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3.56632328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-0-0-1-3-1)"
+       d="m 276.47262,116.2864 2.04837,84.99357"
+       id="path1289-80-4-5-2-9-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.94063759px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37351596"
+       x="229.25662"
+       y="64.205887"
+       id="text851-8-7-4-3-9-4-5-2-2"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-9-2-4-8-1"
+         x="229.25662"
+         y="64.205887"
+         style="stroke-width:0.37351596">Y = south.</tspan><tspan
+         sodipodi:role="line"
+         x="229.25662"
+         y="82.881683"
+         style="stroke-width:0.37351596"
+         id="tspan9647-8-7">Z = winter.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.94063759px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37351596"
+       x="327.10733"
+       y="157.38501"
+       id="text851-8-7-4-3-9-4-5-4-8-5"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-9-2-4-9-6-1"
+         x="327.10733"
+         y="157.38501"
+         style="stroke-width:0.37351596">A = flies south.</tspan><tspan
+         sodipodi:role="line"
+         x="327.10733"
+         y="176.06081"
+         style="stroke-width:0.37351596"
+         id="tspan9647-9-8-7">B = for winter.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer26"
+     inkscape:label="[export] Conclusion 2"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="25.978647"
+       y="136.21216"
+       id="text851-8-7-4-3-80-7-8-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-0"
+         x="25.978647"
+         y="136.21216"
+         style="stroke-width:0.55524367">(The sparrow) flies X :- X is nice.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="25.984018"
+       y="103.61066"
+       id="text851-8-7-4-3-80-7-8-6-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-1-0"
+         x="25.984018"
+         y="103.61066"
+         style="stroke-width:0.55524367">east is nice.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="25.115614"
+       y="77.968987"
+       id="text851-8-7-4-3-80-7-8-6-4-0-8"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-9-0-1-4-5"
+         x="25.115614"
+         y="77.968987"
+         style="stroke-width:0.55524367">south is nice.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer27"
+     inkscape:label="[export] Conclusion 3"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.20974541px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55524367"
+       x="51.479759"
+       y="129.61172"
+       id="text851-8-7-4-3-80-7-6-7-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-7-4-6-6"
+         x="51.479759"
+         y="129.61172"
+         style="stroke-width:0.55524367">This is a sentence. ~&gt; This(is,a,sentence).</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer28"
+     inkscape:label="[export] End"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.12150002px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37803751"
+       x="10.559527"
+       y="52.654297"
+       id="text851-8-7-4-3-80-7-6-7-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-7-4-6-2"
+         x="10.559527"
+         y="67.851402"
+         style="stroke-width:0.37803751" /><tspan
+         sodipodi:role="line"
+         x="10.559527"
+         y="86.753281"
+         style="stroke-width:0.37803751"
+         id="tspan11387">for(Thank(you,and(Ladies, Gentlemen)),unbelievable(your,attention)) </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.65615654px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.66640395"
+       x="67.076073"
+       y="95.700188"
+       id="text851-8-7-4-3-80-7-6-7-0-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan849-4-5-0-2-42-4-7-4-6-2-9"
+         x="67.076073"
+         y="122.48962"
+         style="stroke-width:0.66640395" /><tspan
+         sodipodi:role="line"
+         x="67.076073"
+         y="155.80981"
+         style="stroke-width:0.66640395"
+         id="tspan11387-6">please(questions, ask) :- any.</tspan></text>
+  </g>
+</svg>
