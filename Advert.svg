@@ -19,7 +19,7 @@
    id="svg1915"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="Advert.svg"
-   inkscape:export-filename="/home/arved/Documents/SwanseaExperiments/Teaching/advert.png"
+   inkscape:export-filename="/home/arved/Documents/SwanseaExperiments/Teaching/advert_welsh_this_week.png"
    inkscape:export-xdpi="299.99112"
    inkscape:export-ydpi="299.99112">
   <defs
@@ -98,16 +98,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="675.36949"
-     inkscape:cy="244.3511"
+     inkscape:cx="531.48209"
+     inkscape:cy="280.97102"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
-     inkscape:window-width="1850"
-     inkscape:window-height="1016"
-     inkscape:window-x="70"
-     inkscape:window-y="27"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata1912">
@@ -124,7 +124,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="レイヤー 2">
+     inkscape:label="レイヤー 2"
+     style="display:inline">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.85208333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect2621"
@@ -132,137 +133,13 @@
        height="202.59525"
        x="-5.6696429"
        y="-3.779762" />
-    <g
-       style="display:inline"
-       id="layer1-4"
-       inkscape:label="Layer 1"
-       transform="matrix(0.0587339,0,0,0.0587339,269.91117,150.1065)">
-      <rect
-         rx="124.04831"
-         ry="124.04832"
-         y="245.43256"
-         x="282.65735"
-         height="286.36032"
-         width="222.1761"
-         id="rect2053"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         id="path1854"
-         d="m 330.1875,198.3125 c -5.03616,-0.17314 -10.11259,-0.13887 -15.1875,0.0937 -18.73813,0.8589 -37.68507,4.49781 -56.25,11.21875 -32.46904,11.75622 -59.66966,31.51742 -80.46875,56.125 l 6.9375,-0.90625 c 8.99999,-1.19235 17.24516,5.12497 18.4375,14.125 l 3.59375,26.9688 c 1.19229,9.00002 -5.15626,17.27645 -14.15625,18.46875 l -26.96875,3.5625 c -8.50133,1.12628 -16.26712,-4.46305 -18.125,-12.65625 -4.01113,9.56955 -7.13199,19.5 -9.5625,29.625 l 1.1875,-0.15625 c 9.00001,-1.19233 17.27515,5.11546 18.46875,14.125 l 3.5625,26.96875 c 1.19228,9.00002 -5.12497,17.27645 -14.125,18.46875 l -13.5625,1.8125 c 1.42794,15.93092 4.73204,31.92982 10.4375,47.6875 35.84951,99.01136 145.17161,150.1949 244.1875,114.34375 C 487.60506,532.33799 538.81828,423.01134 502.96875,324 475.66273,248.58462 405.72992,200.90964 330.1875,198.3125 Z m 60.34375,106.875 94.375,0.0625 -0.0312,29.25 -89.09375,-0.0625 c -18.883,-0.0195 -27.70533,6.38469 -27.71875,21.46875 -0.0168,11.86686 7.60871,17.8012 22.65625,17.8125 L 438.5,373.75 c 38.22506,0.0211 54.72651,12.17653 54.6875,46.4375 -0.0209,34.49485 -19.38514,49.09838 -60,49.0625 l -96.0625,-0.0625 0.0312,-29.25 90.3125,0.0625 c 19.10659,0.0152 27.96525,-4.33539 27.96875,-18.5 0.0148,-14.6138 -8.12063,-18.94425 -25.5625,-18.96875 L 387.34375,402.5 c -39.18115,-0.0331 -57.08776,-14.1938 -57.0625,-47.09375 0.0331,-35.61989 19.40699,-50.24883 60.25,-50.21875 z m -145.8125,34.78125 c 7.62728,0.53521 14.0806,6.36664 15.125,14.25 l 3.5625,26.96875 c 1.19234,9.00002 -5.12497,17.24514 -14.125,18.4375 l -26.96875,3.59375 c -9.00475,1.19296 -17.27646,-5.15626 -18.46875,-14.15625 l -3.5625,-26.96875 c -1.19361,-9.00954 5.12021,-17.24453 14.125,-18.4375 L 241.375,340.0625 c 1.125,-0.14904 2.25414,-0.17021 3.34375,-0.0937 z"
-         style="fill:url(#linearGradient2858)"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90.000000"
-         inkscape:export-xdpi="90.000000"
-         inkscape:export-filename="/Users/jamesfrost/Desktop/logovote7.png"
-         style="fill:#e6470f"
-         id="path1862"
-         d="m 90.319308,271.2794 c 1.19236,8.99998 -5.137587,17.26881 -14.142329,18.46178 l -26.966582,3.57262 c -9.004804,1.19292 -17.264724,-5.14297 -18.457066,-14.143 l -3.572622,-26.9666 c -1.192342,-9.00003 5.132831,-17.26823 14.137573,-18.46115 l 26.966643,-3.57262 c 9.004743,-1.19297 17.269467,5.14234 18.461823,14.14233 z"
-         i:knockout="Off"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90.000000"
-         inkscape:export-xdpi="90.000000"
-         inkscape:export-filename="/Users/jamesfrost/Desktop/logovote7.png"
-         style="fill:#e6470f"
-         id="path1864"
-         d="m 124.90869,377.84946 c 1.19231,9.00003 -5.13883,17.25933 -14.14361,18.45231 l -26.96665,3.57256 c -9.004788,1.19297 -17.263423,-5.13339 -18.455766,-14.13342 l -3.57383,-26.97618 c -1.191042,-8.99045 5.134085,-17.25865 14.138828,-18.45162 l 26.966648,-3.57257 c 9.00479,-1.19302 17.26942,5.1423 18.46048,14.13281 z"
-         i:knockout="Off"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90.000000"
-         inkscape:export-xdpi="90.000000"
-         inkscape:export-filename="/Users/jamesfrost/Desktop/logovote7.png"
-         style="fill:#e6470f"
-         id="path1866"
-         d="m 172.47101,279.59657 c 1.1923,9.00003 -5.14235,17.26949 -14.14238,18.46184 l -26.96664,3.57256 c -9.0095,1.1936 -17.26466,-5.14292 -18.45702,-14.14295 l -3.57251,-26.96665 c -1.19235,-8.99997 5.12796,-17.26755 14.13751,-18.46115 l 26.96664,-3.57261 c 8.99998,-1.19231 17.26944,5.14235 18.46184,14.14238 z"
-         i:knockout="Off"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90.000000"
-         inkscape:export-xdpi="90.000000"
-         inkscape:export-filename="/Users/jamesfrost/Desktop/logovote7.png"
-         style="fill:#c43a11"
-         id="path1870"
-         d="m 562.03459,406.60094 c -0.017,29.00826 8.81936,41.11831 38.66942,41.14265 29.88043,0.0235 38.47647,-12.07396 38.49469,-41.09289 l 0.0743,-98.22355 36.08392,0.0288 -0.071,99.12293 c -0.0113,21.03931 -2.41692,35.42379 -10.0706,44.08953 -14.10322,15.97966 -34.6576,22.59297 -64.51667,22.57189 -29.8591,-0.0211 -50.64548,-6.66839 -64.72719,-22.66634 -7.87316,-8.91289 -9.78233,-23.30082 -9.76476,-44.09678 l 0.0677,-99.13199 35.83731,0.026 z"
-         i:knockout="Off"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90.000000"
-         inkscape:export-xdpi="90.000000"
-         inkscape:export-filename="/Users/jamesfrost/Desktop/logovote7.png"
-         style="fill:#c43a11"
-         id="path1872"
-         d="m 738.84235,394.86175 c -0.0232,36.77777 11.66343,49.11452 42.0051,49.13997 l 59.24792,0.0435 -0.0151,28.54706 -60.93116,-0.043 c -20.78364,-0.0118 -36.78053,-1.61356 -53.50466,-14.42383 -17.6703,-13.50129 -26.24463,-34.97789 -26.22832,-64.66639 0.0488,-58.03206 25.6328,-84.95347 80.81097,-84.91513 l 59.97257,0.0523 -0.0178,28.0875 -59.24793,-0.0435 c -30.3523,-0.0267 -42.06461,17.55358 -42.09155,58.22152 z"
-         i:knockout="Off"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="90.000000"
-         inkscape:export-xdpi="90.000000"
-         inkscape:export-filename="/Users/jamesfrost/Desktop/logovote7.png"
-         style="fill:#c43a11"
-         id="path1874"
-         d="m 926.96363,337.88704 c -18.87516,-0.0121 -27.71651,6.37693 -27.7332,21.45196 -0.0167,11.86684 7.62211,17.81491 22.68644,17.83036 l 47.77692,0.0318 c 38.22071,0.0227 54.70361,12.15278 54.67241,46.42115 -0.024,34.4858 -19.3919,49.0968 -59.99896,49.06826 l -96.04417,-0.0753 0.0202,-29.23968 90.31099,0.0687 c 19.10987,0.0244 27.94411,-4.32056 27.95231,-18.48681 0.0148,-14.61381 -8.09578,-18.95333 -25.5466,-18.97454 l -42.5246,-0.025 c -39.17663,-0.0347 -57.06997,-14.22278 -57.055,-47.10881 0.0311,-35.63957 19.39004,-50.23207 60.23757,-50.20369 l 94.37166,0.0772 -0.018,29.21826 z"
-         i:knockout="Off"
-         inkscape:connector-curvature="0" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.96676159px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1491679"
-       x="246.0493"
-       y="173.21587"
-       id="text4524-4"><tspan
-         sodipodi:role="line"
-         id="tspan4522-4"
-         x="246.0493"
-         y="173.21587"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.96676159px;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#d56113;fill-opacity:1;stroke-width:0.1491679">powered </tspan><tspan
-         sodipodi:role="line"
-         x="246.0493"
-         y="180.67432"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.96676159px;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#d56113;fill-opacity:1;stroke-width:0.1491679"
-         id="tspan2690">             by</tspan></text>
   </g>
   <g
      inkscape:label="レイヤー 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-106.49998)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.28770065px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45719042"
-       x="107.53748"
-       y="146.55692"
-       id="text4520"><tspan
-         sodipodi:role="line"
-         id="tspan4518"
-         x="107.53748"
-         y="146.55692"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.28770065px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.45719042">Making a Nice Language</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.13376999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22834694"
-       x="133.46823"
-       y="255.19385"
-       id="text4524"><tspan
-         sodipodi:role="line"
-         id="tspan4522"
-         x="133.46823"
-         y="255.19385"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.13376999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.22834694">a <tspan
-   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.13376999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-   id="tspan2625">guerrilla lecture</tspan> by Arved Friedemann</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:9.24769688px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2311924"
-       x="117.19979"
-       y="169.84145"
-       id="text4528"><tspan
-         sodipodi:role="line"
-         id="tspan4526"
-         x="117.19979"
-         y="169.84145"
-         style="stroke-width:0.2311924">an alternative guide to declarative programming</tspan></text>
+     transform="translate(0,-106.49998)"
+     style="display:inline">
     <ellipse
        style="display:inline;fill:url(#linearGradient4653);fill-opacity:1;stroke:#000000;stroke-width:1.04106677;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="path4607"
@@ -366,7 +243,126 @@
        id="path4657"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
+    <g
+       style="display:inline"
+       id="layer1-4"
+       inkscape:label="Layer 1"
+       transform="matrix(0.0587339,0,0,0.0587339,269.91117,256.60648)">
+      <rect
+         rx="124.04831"
+         ry="124.04832"
+         y="245.43256"
+         x="282.65735"
+         height="286.36032"
+         width="222.1761"
+         id="rect2053"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path1854"
+         d="m 330.1875,198.3125 c -5.03616,-0.17314 -10.11259,-0.13887 -15.1875,0.0937 -18.73813,0.8589 -37.68507,4.49781 -56.25,11.21875 -32.46904,11.75622 -59.66966,31.51742 -80.46875,56.125 l 6.9375,-0.90625 c 8.99999,-1.19235 17.24516,5.12497 18.4375,14.125 l 3.59375,26.9688 c 1.19229,9.00002 -5.15626,17.27645 -14.15625,18.46875 l -26.96875,3.5625 c -8.50133,1.12628 -16.26712,-4.46305 -18.125,-12.65625 -4.01113,9.56955 -7.13199,19.5 -9.5625,29.625 l 1.1875,-0.15625 c 9.00001,-1.19233 17.27515,5.11546 18.46875,14.125 l 3.5625,26.96875 c 1.19228,9.00002 -5.12497,17.27645 -14.125,18.46875 l -13.5625,1.8125 c 1.42794,15.93092 4.73204,31.92982 10.4375,47.6875 35.84951,99.01136 145.17161,150.1949 244.1875,114.34375 C 487.60506,532.33799 538.81828,423.01134 502.96875,324 475.66273,248.58462 405.72992,200.90964 330.1875,198.3125 Z m 60.34375,106.875 94.375,0.0625 -0.0312,29.25 -89.09375,-0.0625 c -18.883,-0.0195 -27.70533,6.38469 -27.71875,21.46875 -0.0168,11.86686 7.60871,17.8012 22.65625,17.8125 L 438.5,373.75 c 38.22506,0.0211 54.72651,12.17653 54.6875,46.4375 -0.0209,34.49485 -19.38514,49.09838 -60,49.0625 l -96.0625,-0.0625 0.0312,-29.25 90.3125,0.0625 c 19.10659,0.0152 27.96525,-4.33539 27.96875,-18.5 0.0148,-14.6138 -8.12063,-18.94425 -25.5625,-18.96875 L 387.34375,402.5 c -39.18115,-0.0331 -57.08776,-14.1938 -57.0625,-47.09375 0.0331,-35.61989 19.40699,-50.24883 60.25,-50.21875 z m -145.8125,34.78125 c 7.62728,0.53521 14.0806,6.36664 15.125,14.25 l 3.5625,26.96875 c 1.19234,9.00002 -5.12497,17.24514 -14.125,18.4375 l -26.96875,3.59375 c -9.00475,1.19296 -17.27646,-5.15626 -18.46875,-14.15625 l -3.5625,-26.96875 c -1.19361,-9.00954 5.12021,-17.24453 14.125,-18.4375 L 241.375,340.0625 c 1.125,-0.14904 2.25414,-0.17021 3.34375,-0.0937 z"
+         style="fill:url(#linearGradient2858)"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90.000000"
+         inkscape:export-xdpi="90.000000"
+         inkscape:export-filename="/Users/jamesfrost/Desktop/logovote7.png"
+         style="fill:#e6470f"
+         id="path1862"
+         d="m 90.319308,271.2794 c 1.19236,8.99998 -5.137587,17.26881 -14.142329,18.46178 l -26.966582,3.57262 c -9.004804,1.19292 -17.264724,-5.14297 -18.457066,-14.143 l -3.572622,-26.9666 c -1.192342,-9.00003 5.132831,-17.26823 14.137573,-18.46115 l 26.966643,-3.57262 c 9.004743,-1.19297 17.269467,5.14234 18.461823,14.14233 z"
+         i:knockout="Off"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90.000000"
+         inkscape:export-xdpi="90.000000"
+         inkscape:export-filename="/Users/jamesfrost/Desktop/logovote7.png"
+         style="fill:#e6470f"
+         id="path1864"
+         d="m 124.90869,377.84946 c 1.19231,9.00003 -5.13883,17.25933 -14.14361,18.45231 l -26.96665,3.57256 c -9.004788,1.19297 -17.263423,-5.13339 -18.455766,-14.13342 l -3.57383,-26.97618 c -1.191042,-8.99045 5.134085,-17.25865 14.138828,-18.45162 l 26.966648,-3.57257 c 9.00479,-1.19302 17.26942,5.1423 18.46048,14.13281 z"
+         i:knockout="Off"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90.000000"
+         inkscape:export-xdpi="90.000000"
+         inkscape:export-filename="/Users/jamesfrost/Desktop/logovote7.png"
+         style="fill:#e6470f"
+         id="path1866"
+         d="m 172.47101,279.59657 c 1.1923,9.00003 -5.14235,17.26949 -14.14238,18.46184 l -26.96664,3.57256 c -9.0095,1.1936 -17.26466,-5.14292 -18.45702,-14.14295 l -3.57251,-26.96665 c -1.19235,-8.99997 5.12796,-17.26755 14.13751,-18.46115 l 26.96664,-3.57261 c 8.99998,-1.19231 17.26944,5.14235 18.46184,14.14238 z"
+         i:knockout="Off"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90.000000"
+         inkscape:export-xdpi="90.000000"
+         inkscape:export-filename="/Users/jamesfrost/Desktop/logovote7.png"
+         style="fill:#c43a11"
+         id="path1870"
+         d="m 562.03459,406.60094 c -0.017,29.00826 8.81936,41.11831 38.66942,41.14265 29.88043,0.0235 38.47647,-12.07396 38.49469,-41.09289 l 0.0743,-98.22355 36.08392,0.0288 -0.071,99.12293 c -0.0113,21.03931 -2.41692,35.42379 -10.0706,44.08953 -14.10322,15.97966 -34.6576,22.59297 -64.51667,22.57189 -29.8591,-0.0211 -50.64548,-6.66839 -64.72719,-22.66634 -7.87316,-8.91289 -9.78233,-23.30082 -9.76476,-44.09678 l 0.0677,-99.13199 35.83731,0.026 z"
+         i:knockout="Off"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90.000000"
+         inkscape:export-xdpi="90.000000"
+         inkscape:export-filename="/Users/jamesfrost/Desktop/logovote7.png"
+         style="fill:#c43a11"
+         id="path1872"
+         d="m 738.84235,394.86175 c -0.0232,36.77777 11.66343,49.11452 42.0051,49.13997 l 59.24792,0.0435 -0.0151,28.54706 -60.93116,-0.043 c -20.78364,-0.0118 -36.78053,-1.61356 -53.50466,-14.42383 -17.6703,-13.50129 -26.24463,-34.97789 -26.22832,-64.66639 0.0488,-58.03206 25.6328,-84.95347 80.81097,-84.91513 l 59.97257,0.0523 -0.0178,28.0875 -59.24793,-0.0435 c -30.3523,-0.0267 -42.06461,17.55358 -42.09155,58.22152 z"
+         i:knockout="Off"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90.000000"
+         inkscape:export-xdpi="90.000000"
+         inkscape:export-filename="/Users/jamesfrost/Desktop/logovote7.png"
+         style="fill:#c43a11"
+         id="path1874"
+         d="m 926.96363,337.88704 c -18.87516,-0.0121 -27.71651,6.37693 -27.7332,21.45196 -0.0167,11.86684 7.62211,17.81491 22.68644,17.83036 l 47.77692,0.0318 c 38.22071,0.0227 54.70361,12.15278 54.67241,46.42115 -0.024,34.4858 -19.3919,49.0968 -59.99896,49.06826 l -96.04417,-0.0753 0.0202,-29.23968 90.31099,0.0687 c 19.10987,0.0244 27.94411,-4.32056 27.95231,-18.48681 0.0148,-14.61381 -8.09578,-18.95333 -25.5466,-18.97454 l -42.5246,-0.025 c -39.17663,-0.0347 -57.06997,-14.22278 -57.055,-47.10881 0.0311,-35.63957 19.39004,-50.23207 60.23757,-50.20369 l 94.37166,0.0772 -0.018,29.21826 z"
+         i:knockout="Off"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="レイヤー 3"
+     style="display:none">
     <text
+       transform="translate(0,-106.49998)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.28770065px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45719042"
+       x="107.53748"
+       y="146.55692"
+       id="text4520"><tspan
+         sodipodi:role="line"
+         id="tspan4518"
+         x="107.53748"
+         y="146.55692"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.28770065px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.45719042">Making a Nice Language</tspan></text>
+    <text
+       transform="translate(0,-106.49998)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.13376999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22834694"
+       x="133.46823"
+       y="255.19385"
+       id="text4524"><tspan
+         sodipodi:role="line"
+         id="tspan4522"
+         x="133.46823"
+         y="255.19385"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.13376999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.22834694">a <tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.13376999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan2625">guerrilla lecture</tspan> by Arved Friedemann</tspan></text>
+    <text
+       transform="translate(0,-106.49998)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.24769688px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2311924"
+       x="117.19979"
+       y="169.84145"
+       id="text4528"><tspan
+         sodipodi:role="line"
+         id="tspan4526"
+         x="117.19979"
+         y="169.84145"
+         style="stroke-width:0.2311924">an alternative guide to declarative programming</tspan></text>
+    <text
+       transform="translate(0,-106.49998)"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:17.20084381px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43002105"
        x="8.5907059"
@@ -378,6 +374,7 @@
          y="269.53256"
          style="stroke-width:0.43002105">I want you...</tspan></text>
     <text
+       transform="translate(0,-106.49998)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853771px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24546288"
        x="103.66925"
@@ -389,6 +386,7 @@
          y="204.37265"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853771px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.24546288">Every Wednesday, 14:00- 15:00 (plus discussion)</tspan></text>
     <text
+       transform="translate(0,-106.49998)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24546288"
        x="104.03254"
@@ -400,6 +398,7 @@
          y="221.34087"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.24546288">CF 209 (A.k.a. Theory Lab)</tspan></text>
     <text
+       transform="translate(0,-106.49998)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24546288"
        x="103.66925"
@@ -410,5 +409,348 @@
          x="103.66925"
          y="237.92125"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.24546288">Bay Campus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.96676159px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1491679"
+       x="246.0493"
+       y="173.21587"
+       id="text4524-4"><tspan
+         sodipodi:role="line"
+         id="tspan4522-4"
+         x="246.0493"
+         y="173.21587"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.96676159px;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#d56113;fill-opacity:1;stroke-width:0.1491679">powered </tspan><tspan
+         sodipodi:role="line"
+         x="246.0493"
+         y="180.67432"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.96676159px;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#d56113;fill-opacity:1;stroke-width:0.1491679"
+         id="tspan2690">             by</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="レイヤー 6"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.28770065px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45719042"
+       x="107.52704"
+       y="40.097576"
+       id="text4520-4"><tspan
+         sodipodi:role="line"
+         id="tspan4518-2"
+         x="107.52704"
+         y="40.097576"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.28770065px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.45719042">Making a Nice Language</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.13376999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22834696"
+       x="133.45778"
+       y="148.7345"
+       id="text4524-45"><tspan
+         sodipodi:role="line"
+         id="tspan4522-3"
+         x="133.45778"
+         y="148.7345"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.13376999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.22834696">a <tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.13376999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.22834696"
+   id="tspan2625-8">guerrilla lecture</tspan> by Arved Friedemann</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.24769783px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2311924"
+       x="117.18934"
+       y="63.382114"
+       id="text4528-1"><tspan
+         sodipodi:role="line"
+         id="tspan4526-1"
+         x="117.18934"
+         y="63.382114"
+         style="stroke-width:0.2311924">an alternative guide to declarative programming</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.20084381px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43002105"
+       x="8.5802536"
+       y="163.07323"
+       id="text4663-3"><tspan
+         sodipodi:role="line"
+         id="tspan4661-1"
+         x="8.5802536"
+         y="163.07323"
+         style="stroke-width:0.43002105">I want you...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24546288"
+       x="103.6588"
+       y="97.913307"
+       id="text4528-0-58"><tspan
+         sodipodi:role="line"
+         id="tspan4526-2-1"
+         x="103.6588"
+         y="97.913307"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.24546288">Every Wednesday, 15:00- 16:00 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24546288"
+       x="104.02209"
+       y="114.88152"
+       id="text4528-0-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan4526-2-7-3"
+         x="104.02209"
+         y="114.88152"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.24546288">CF 209 (A.k.a. Theory Lab)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24546288"
+       x="103.6588"
+       y="131.4619"
+       id="text4528-0-3-1-9"><tspan
+         sodipodi:role="line"
+         id="tspan4526-2-7-5-75"
+         x="103.6588"
+         y="131.4619"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.24546288">Bay Campus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.96676159px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1491679"
+       x="246.03885"
+       y="173.2565"
+       id="text4524-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan4522-4-4"
+         x="246.03885"
+         y="173.2565"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.96676159px;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#d56113;fill-opacity:1;stroke-width:0.1491679">powered </tspan><tspan
+         sodipodi:role="line"
+         x="246.03885"
+         y="180.71495"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.96676159px;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#d56113;fill-opacity:1;stroke-width:0.1491679"
+         id="tspan2690-9">             by</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.38152981px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#c00000;fill-opacity:1;stroke:none;stroke-width:0.20953825"
+       x="242.97498"
+       y="28.768908"
+       id="text1054-6"
+       transform="rotate(12.88966)"><tspan
+         sodipodi:role="line"
+         id="tspan1052-7"
+         x="242.97498"
+         y="28.768908"
+         style="fill:#c00000;fill-opacity:1;stroke-width:0.20953825">Now an hour later!</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="レイヤー 4"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.28770065px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45719042"
+       x="107.52703"
+       y="39.921291"
+       id="text4520-3"><tspan
+         sodipodi:role="line"
+         id="tspan4518-0"
+         x="107.52703"
+         y="39.921291"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.28770065px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.45719042">Creu iaith braf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.13376999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22834696"
+       x="133.45778"
+       y="148.55821"
+       id="text4524-44"><tspan
+         sodipodi:role="line"
+         id="tspan4522-44"
+         x="133.45778"
+         y="148.55821"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.13376999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.22834696"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.13376999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan948">darlith eithafol</tspan> gan Arved Friedemann</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.24769783px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2311924"
+       x="117.18933"
+       y="63.205826"
+       id="text4528-6"><tspan
+         sodipodi:role="line"
+         id="tspan4526-3"
+         x="117.18933"
+         y="63.205826"
+         style="stroke-width:0.2311924">Canllaw amgen am raglennu datganiadol</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.35311699px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35883182"
+       x="2.4109383"
+       y="163.672"
+       id="text4663-1"><tspan
+         sodipodi:role="line"
+         id="tspan4661-7"
+         x="2.4109383"
+         y="163.672"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.35311699px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.35883182">'Dwi eisiau chi...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24546288"
+       x="103.6588"
+       y="97.737022"
+       id="text4528-0-5"><tspan
+         sodipodi:role="line"
+         id="tspan4526-2-9"
+         x="103.6588"
+         y="97.737022"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.24546288">Pob dydd Mercher 14:00 i 15:00 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24546288"
+       x="104.02207"
+       y="114.70525"
+       id="text4528-0-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan4526-2-7-2"
+         x="104.02207"
+         y="114.70525"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.24546288">CF209 (Labordy Theori)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24546288"
+       x="103.6588"
+       y="131.28563"
+       id="text4528-0-3-1-1"><tspan
+         sodipodi:role="line"
+         id="tspan4526-2-7-5-7"
+         x="103.6588"
+         y="131.28563"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.24546288">Campws y Bae</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.96676159px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1491679"
+       x="246.14363"
+       y="173.35004"
+       id="text4524-4-2"><tspan
+         sodipodi:role="line"
+         id="tspan4522-4-2"
+         x="246.14363"
+         y="173.35004"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.96676159px;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#d56113;fill-opacity:1;stroke-width:0.1491679">gyflwynir </tspan><tspan
+         sodipodi:role="line"
+         x="246.14363"
+         y="180.80849"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.96676159px;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#d56113;fill-opacity:1;stroke-width:0.1491679"
+         id="tspan2690-0">            gan</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="レイヤー 5"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.28770065px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45719042"
+       x="107.59531"
+       y="40.011776"
+       id="text4520-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan4518-0-3"
+         x="107.59531"
+         y="40.011776"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.28770065px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.45719042">Creu iaith braf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.13376999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22834696"
+       x="133.52603"
+       y="148.6487"
+       id="text4524-44-6"><tspan
+         sodipodi:role="line"
+         id="tspan4522-44-1"
+         x="133.52603"
+         y="148.6487"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.13376999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.22834696"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.13376999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.22834696"
+   id="tspan948-0">darlith eithafol</tspan> gan Arved Friedemann</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.24769878px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2311924"
+       x="117.25759"
+       y="63.296314"
+       id="text4528-6-5"><tspan
+         sodipodi:role="line"
+         id="tspan4526-3-7"
+         x="117.25759"
+         y="63.296314"
+         style="stroke-width:0.2311924">Canllaw amgen am raglennu datganiadol</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.35311699px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35883182"
+       x="2.4792013"
+       y="163.76248"
+       id="text4663-1-4"><tspan
+         sodipodi:role="line"
+         id="tspan4661-7-2"
+         x="2.4792013"
+         y="163.76248"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.35311699px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.35883182">'Dwi eisiau chi...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24546288"
+       x="103.72707"
+       y="97.827515"
+       id="text4528-0-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan4526-2-9-0"
+         x="103.72707"
+         y="97.827515"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.24546288">Pob dydd Mercher 15:00 i 16:00 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24546288"
+       x="104.09033"
+       y="114.79574"
+       id="text4528-0-3-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan4526-2-7-2-3"
+         x="104.09033"
+         y="114.79574"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.24546288">CF209 (Labordy Theori)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24546288"
+       x="103.72707"
+       y="131.37611"
+       id="text4528-0-3-1-1-9"><tspan
+         sodipodi:role="line"
+         id="tspan4526-2-7-5-7-0"
+         x="103.72707"
+         y="131.37611"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.81853867px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.24546288">Campws y Bae</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.96676159px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1491679"
+       x="246.21191"
+       y="173.44051"
+       id="text4524-4-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan4522-4-2-3"
+         x="246.21191"
+         y="173.44051"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.96676159px;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#d56113;fill-opacity:1;stroke-width:0.1491679">gyflwynir </tspan><tspan
+         sodipodi:role="line"
+         x="246.21191"
+         y="180.89896"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.96676159px;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#d56113;fill-opacity:1;stroke-width:0.1491679"
+         id="tspan2690-0-3">            gan</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.38152981px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c61313;fill-opacity:1;stroke:none;stroke-width:0.20953825"
+       x="230.75005"
+       y="28.978849"
+       id="text1054"
+       transform="rotate(12.88966)"><tspan
+         sodipodi:role="line"
+         id="tspan1052"
+         x="230.75005"
+         y="28.978849"
+         style="fill:#c61313;fill-opacity:1;stroke-width:0.20953825">nawr awr yn hwyrach!</tspan></text>
   </g>
 </svg>
