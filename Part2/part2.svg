@@ -2750,6 +2750,61 @@
        x2="165.64015"
        y2="67.82003"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(-16.243039,48.036849)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4651"
+       id="linearGradient4653-9-3-7-0"
+       x1="166.311"
+       y1="40.540356"
+       x2="165.70711"
+       y2="80.919495"
+       gradientUnits="userSpaceOnUse" />
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6439-28-90-9-5-9-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6437-03-89-2-6-1-8"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6439-28-90-7-5-4-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6437-03-89-0-6-9-9"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send-9-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5850-6-0"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2759,10 +2814,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.78879547"
-     inkscape:cx="633.66434"
+     inkscape:cx="641.27087"
      inkscape:cy="378.15773"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer97"
+     inkscape:current-layer="layer9"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -2804,7 +2859,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-106.49998)"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25.74575043px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.64364374"
@@ -2837,7 +2892,7 @@
          id="tspan4526"
          x="27.59226"
          y="218.7589"
-         style="stroke-width:0.26458332">part 2: Types and Proofs</tspan></text>
+         style="stroke-width:0.26458332">part 2: Types and Proofs.</tspan></text>
     <g
        id="layer1-4"
        inkscape:label="Layer 1"
@@ -2927,6 +2982,124 @@
          y="286.79245"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.05391693px;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#d56113;fill-opacity:1;stroke-width:0.20134638"
          id="tspan2690">             by</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer107"
+     inkscape:label="[export] lastReview"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.62142086px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3655355"
+       x="1.9516271"
+       y="75.65361"
+       id="text5585-9-2-7-3-5-7-0-9-30-2-9-8-1"><tspan
+         sodipodi:role="line"
+         id="tspan5583-0-4-6-38-1-6-4-3-3-3-0-4-0"
+         x="1.9516271"
+         y="75.65361"
+         style="stroke-width:0.3655355">case X then (go left).</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.62142086px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3655355"
+       x="109.9285"
+       y="47.590302"
+       id="text5585-9-2-7-3-5-7-0-9-30-2-8-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan5583-0-4-6-38-1-6-4-3-3-3-9-8-5"
+         x="109.9285"
+         y="47.590302"
+         style="stroke-width:0.3655355">case (nothing goes right) then Y.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.62142086px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3655355"
+       x="39.102085"
+       y="142.47099"
+       id="text5585-9-2-7-3-5-7-0-9-30-2-88-3-8"><tspan
+         sodipodi:role="line"
+         id="tspan5583-0-4-6-38-1-6-4-3-3-3-03-8-7"
+         x="39.102085"
+         y="142.47099"
+         style="stroke-width:0.3655355">case (nothing goes right) then (go left).</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.85208333;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6439-28-90-7-5-4-7)"
+       d="M 41.757361,78.536989 127.81815,132.25817"
+       id="path6435-18-3-6-7-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.85208333;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6439-28-90-9-5-9-5)"
+       d="M 317.57951,49.671878 263.59107,131.72362"
+       id="path6435-18-3-1-5-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.68261147px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2420653"
+       x="145.21127"
+       y="94.012131"
+       id="text5585-9-2-7-3-5-7-0-9-30-2-7-6-5-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan5583-0-4-6-38-1-6-4-3-3-3-7-9-8-4-0"
+         x="145.21127"
+         y="94.012131"
+         style="stroke-width:0.2420653">X = nothing goes right.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.68261147px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2420653"
+       x="145.38553"
+       y="107.46347"
+       id="text5585-9-2-7-3-5-7-0-9-30-2-7-1-8-5-4"><tspan
+         sodipodi:role="line"
+         id="tspan5583-0-4-6-38-1-6-4-3-3-3-7-1-4-0-2"
+         x="145.38553"
+         y="107.46347"
+         style="stroke-width:0.2420653">Y = go left.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer108"
+     inkscape:label="[export] lastReview 1"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.62142086px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3655355"
+       x="35.168549"
+       y="43.284138"
+       id="text5585-9-2-7-10"><tspan
+         sodipodi:role="line"
+         id="tspan5583-0-4-6-4"
+         x="35.168549"
+         y="43.284138"
+         style="stroke-width:0.3655355">When nothing goes right, go left.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.62142086px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3655355"
+       x="34.132164"
+       y="81.10775"
+       id="text5585-9-2-7-1-2"><tspan
+         sodipodi:role="line"
+         id="tspan5583-0-4-6-3-0"
+         x="34.132164"
+         y="81.10775"
+         style="stroke-width:0.3655355">go left :- nothing goes right.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="95.694649"
+       y="106.95525"
+       id="text5813-5"><tspan
+         sodipodi:role="line"
+         id="tspan5811-5"
+         x="95.694649"
+         y="106.95525"
+         style="stroke-width:0.26458332">pron.: &quot;if&quot;</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send-9-6)"
+       d="m 92.754671,104.54981 c -5.01667,1.41928 -5.0232,-4.708324 -5.07812,-18.174314"
+       id="path5815-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3513,6 +3686,49 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer106"
+     inkscape:label="[export] Introduction 15"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.20402813px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28010067"
+       x="45.771999"
+       y="71.423607"
+       id="text3129-8-9-3"><tspan
+         sodipodi:role="line"
+         x="45.771999"
+         y="71.423607"
+         style="stroke-width:0.28010067"
+         id="tspan1727-1-6-7">type [] (List A).</tspan><tspan
+         sodipodi:role="line"
+         x="45.771999"
+         y="85.428642"
+         style="stroke-width:0.28010067"
+         id="tspan1758-2-3">type (X : XS) (List A) :- type X A,</tspan><tspan
+         sodipodi:role="line"
+         x="45.771999"
+         y="99.433678"
+         style="stroke-width:0.28010067"
+         id="tspan1760-1-2">                                            type XS (List A)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.20402813px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28010067"
+       x="48.253044"
+       y="130.45877"
+       id="text3129-8-9-3-6"><tspan
+         sodipodi:role="line"
+         x="48.253044"
+         y="130.45877"
+         style="stroke-width:0.28010067"
+         id="tspan1760-1-2-6">type a A,</tspan><tspan
+         sodipodi:role="line"
+         x="48.253044"
+         y="144.46381"
+         style="stroke-width:0.28010067"
+         id="tspan3873">type (a : a : a : []) (List A).</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="[export] Introduction 3"
      style="display:none">
@@ -3571,24 +3787,24 @@
          id="tspan1727">                               ...</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.60023403px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21500584"
-       x="186.05145"
-       y="20.916035"
+       style="font-style:normal;font-weight:normal;font-size:10.37629032px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25940725"
+       x="47.187565"
+       y="21.027142"
        id="text3129-8"><tspan
          sodipodi:role="line"
-         x="186.05145"
-         y="20.916035"
-         style="stroke-width:0.21500584"
+         x="47.187565"
+         y="21.027142"
+         style="stroke-width:0.25940725"
          id="tspan1727-1">type [] (List A).</tspan><tspan
          sodipodi:role="line"
-         x="186.05145"
-         y="31.666327"
-         style="stroke-width:0.21500584"
+         x="47.187565"
+         y="33.997505"
+         style="stroke-width:0.25940725"
          id="tspan1758">type (X : XS) (List A) :- type X A,</tspan><tspan
          sodipodi:role="line"
-         x="186.05145"
-         y="42.416618"
-         style="stroke-width:0.21500584"
+         x="47.187565"
+         y="46.967869"
+         style="stroke-width:0.25940725"
          id="tspan1760">                                            type XS (List A)</tspan></text>
   </g>
   <g
@@ -3651,24 +3867,24 @@
          id="tspan1897">                               ...</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.60023403px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21500584"
-       x="186.14824"
-       y="20.920567"
+       style="font-style:normal;font-weight:normal;font-size:10.37629032px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25940725"
+       x="47.304337"
+       y="21.03261"
        id="text3129-8-7"><tspan
          sodipodi:role="line"
-         x="186.14824"
-         y="20.920567"
-         style="stroke-width:0.21500584"
+         x="47.304337"
+         y="21.03261"
+         style="stroke-width:0.25940725"
          id="tspan1727-1-8">[] is a (List A).</tspan><tspan
          sodipodi:role="line"
-         x="186.14824"
-         y="31.670858"
-         style="stroke-width:0.21500584"
+         x="47.304337"
+         y="34.002972"
+         style="stroke-width:0.25940725"
          id="tspan1758-5">(X : XS) is a (List A) :- X is an A,</tspan><tspan
          sodipodi:role="line"
-         x="186.14824"
-         y="42.42115"
-         style="stroke-width:0.21500584"
+         x="47.304337"
+         y="46.973335"
+         style="stroke-width:0.25940725"
          id="tspan1760-7">                                          XS is a (List A)</tspan></text>
   </g>
   <g
@@ -3731,24 +3947,24 @@
          id="tspan1901">                               ...</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.60023403px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21500584"
-       x="186.03738"
-       y="21.079672"
+       style="font-style:normal;font-weight:normal;font-size:10.37629032px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25940725"
+       x="47.170589"
+       y="21.224571"
        id="text3129-8-7-4"><tspan
          sodipodi:role="line"
-         x="186.03738"
-         y="21.079672"
-         style="stroke-width:0.21500584"
+         x="47.170589"
+         y="21.224571"
+         style="stroke-width:0.25940725"
          id="tspan1727-1-8-1">[] :: (List A).</tspan><tspan
          sodipodi:role="line"
-         x="186.03738"
-         y="31.829964"
-         style="stroke-width:0.21500584"
+         x="47.170589"
+         y="34.194935"
+         style="stroke-width:0.25940725"
          id="tspan1758-5-8">(X : XS) :: (List A) :- X :: A,</tspan><tspan
          sodipodi:role="line"
-         x="186.03738"
-         y="42.580257"
-         style="stroke-width:0.21500584"
+         x="47.170589"
+         y="47.165298"
+         style="stroke-width:0.25940725"
          id="tspan1760-7-5">                                     XS :: (List A)</tspan></text>
   </g>
   <g
@@ -3793,174 +4009,6 @@
    id="tspan3049-8"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.04872131px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.47621801">The Great Aim:</tspan></textPath></text>
     </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer8"
-     inkscape:label="[export] Aim"
-     style="display:none">
-    <g
-       id="g3070"
-       transform="translate(2.6834164,1.0062811)">
-      <path
-         d="M 99.92902,53.080176 A 72.116814,36.058407 0 0 1 165.33248,32.178444 72.116814,36.058407 0 0 1 230.77422,53.0502 l -65.4087,15.186647 z"
-         sodipodi:end="5.8484526"
-         sodipodi:start="3.575409"
-         sodipodi:ry="36.058407"
-         sodipodi:rx="72.116814"
-         sodipodi:cy="68.236847"
-         sodipodi:cx="165.36552"
-         sodipodi:type="arc"
-         id="path3047"
-         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
-      <text
-         transform="translate(-0.67085409,-2.6834164)"
-         y="-3.175"
-         id="text3051"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.04872131px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47621801"
-         xml:space="preserve"><textPath
-           id="textPath3053"
-           xlink:href="#path3047"><tspan
-   id="tspan3049"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.04872131px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.47621801">The Great Aim:</tspan></textPath></text>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="67.756264"
-       y="110.43425"
-       id="text3074"><tspan
-         sodipodi:role="line"
-         id="tspan3072"
-         x="67.756264"
-         y="110.43425"
-         style="stroke-width:0.26458332">Check every type property at compile time!</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.01792526px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20044813"
-       x="98.536659"
-       y="122.81549"
-       id="text3078"><tspan
-         sodipodi:role="line"
-         id="tspan3076"
-         x="98.536659"
-         y="122.81549"
-         style="stroke-width:0.20044813">No slag through runtime type checking!</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="102.73777"
-       y="83.480301"
-       id="text3074-3-6-7"><tspan
-         sodipodi:role="line"
-         id="tspan3072-3-2-2"
-         x="102.73777"
-         y="83.480301"
-         style="stroke-width:0.26458332">Explain code to ourselves!</tspan></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer9"
-     inkscape:label="[export] Aim 1"
-     style="display:none">
-    <g
-       id="g3070-7"
-       transform="translate(2.6834164,1.0062811)">
-      <path
-         d="M 99.92902,53.080176 A 72.116814,36.058407 0 0 1 165.33248,32.178444 72.116814,36.058407 0 0 1 230.77422,53.0502 l -65.4087,15.186647 z"
-         sodipodi:end="5.8484526"
-         sodipodi:start="3.575409"
-         sodipodi:ry="36.058407"
-         sodipodi:rx="72.116814"
-         sodipodi:cy="68.236847"
-         sodipodi:cx="165.36552"
-         sodipodi:type="arc"
-         id="path3090"
-         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
-      <text
-         transform="translate(-0.67085409,-2.6834164)"
-         y="-3.175"
-         id="text3051-9"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.04872131px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47621801"
-         xml:space="preserve"><textPath
-           id="textPath3053-0"
-           xlink:href="#path3047-8"><tspan
-   id="tspan3049-3"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.04872131px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.47621801">The Great Aim:</tspan></textPath></text>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="67.756264"
-       y="110.43425"
-       id="text3074-3"><tspan
-         sodipodi:role="line"
-         id="tspan3072-3"
-         x="67.756264"
-         y="110.43425"
-         style="stroke-width:0.26458332">Check every type property at compile time!</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.01792526px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20044813"
-       x="98.536667"
-       y="122.81549"
-       id="text3078-7"><tspan
-         sodipodi:role="line"
-         id="tspan3076-3"
-         x="98.536667"
-         y="122.81549"
-         style="stroke-width:0.20044813">No slag through runtime type checking!</tspan></text>
-    <path
-       style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 130.81654,107.75085 h 21.1319"
-       id="path3124"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 192.03198,120.49715 h 49.6432"
-       id="path3124-0"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.97995281px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22449882"
-       x="213.0968"
-       y="107.27027"
-       id="text3143"
-       transform="rotate(6.5754709)"><tspan
-         sodipodi:role="line"
-         id="tspan3141"
-         x="213.0968"
-         y="107.27027"
-         style="stroke-width:0.22449882">anything</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.78096008px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.169524"
-       x="201.58554"
-       y="115.2272"
-       id="text3143-4"
-       transform="rotate(6.5754708)"><tspan
-         sodipodi:role="line"
-         id="tspan3141-1"
-         x="201.58554"
-         y="115.2272"
-         style="stroke-width:0.169524">that could have been</tspan><tspan
-         sodipodi:role="line"
-         x="201.58554"
-         y="123.7034"
-         style="stroke-width:0.169524"
-         id="tspan3163">             avoided</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="102.73777"
-       y="83.480309"
-       id="text3074-3-6-8"><tspan
-         sodipodi:role="line"
-         id="tspan3072-3-2-29"
-         x="102.73777"
-         y="83.480309"
-         style="stroke-width:0.26458332">Explain code to ourselves!</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4336,6 +4384,174 @@
          y="160.76677"
          style="stroke-width:0.29373088"
          id="tspan3248-53">                                             </tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="[export] Aim"
+     style="display:none">
+    <g
+       id="g3070"
+       transform="translate(2.6834164,1.0062811)">
+      <path
+         d="M 99.92902,53.080176 A 72.116814,36.058407 0 0 1 165.33248,32.178444 72.116814,36.058407 0 0 1 230.77422,53.0502 l -65.4087,15.186647 z"
+         sodipodi:end="5.8484526"
+         sodipodi:start="3.575409"
+         sodipodi:ry="36.058407"
+         sodipodi:rx="72.116814"
+         sodipodi:cy="68.236847"
+         sodipodi:cx="165.36552"
+         sodipodi:type="arc"
+         id="path3047"
+         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      <text
+         transform="translate(-0.67085409,-2.6834164)"
+         y="-3.175"
+         id="text3051"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.04872131px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47621801"
+         xml:space="preserve"><textPath
+           id="textPath3053"
+           xlink:href="#path3047"><tspan
+   id="tspan3049"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.04872131px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.47621801">The Great Aim:</tspan></textPath></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="67.756264"
+       y="110.43425"
+       id="text3074"><tspan
+         sodipodi:role="line"
+         id="tspan3072"
+         x="67.756264"
+         y="110.43425"
+         style="stroke-width:0.26458332">Check every type property at compile time!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.01792526px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20044813"
+       x="98.536659"
+       y="122.81549"
+       id="text3078"><tspan
+         sodipodi:role="line"
+         id="tspan3076"
+         x="98.536659"
+         y="122.81549"
+         style="stroke-width:0.20044813">No slag through runtime type checking!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="102.73777"
+       y="83.480301"
+       id="text3074-3-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan3072-3-2-2"
+         x="102.73777"
+         y="83.480301"
+         style="stroke-width:0.26458332">Explain code to ourselves!</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="[export] Aim 1"
+     style="display:none">
+    <g
+       id="g3070-7"
+       transform="translate(2.6834164,1.0062811)">
+      <path
+         d="M 99.92902,53.080176 A 72.116814,36.058407 0 0 1 165.33248,32.178444 72.116814,36.058407 0 0 1 230.77422,53.0502 l -65.4087,15.186647 z"
+         sodipodi:end="5.8484526"
+         sodipodi:start="3.575409"
+         sodipodi:ry="36.058407"
+         sodipodi:rx="72.116814"
+         sodipodi:cy="68.236847"
+         sodipodi:cx="165.36552"
+         sodipodi:type="arc"
+         id="path3090"
+         style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      <text
+         transform="translate(-0.67085409,-2.6834164)"
+         y="-3.175"
+         id="text3051-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.04872131px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47621801"
+         xml:space="preserve"><textPath
+           id="textPath3053-0"
+           xlink:href="#path3047-8"><tspan
+   id="tspan3049-3"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.04872131px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.47621801">The Great Aim:</tspan></textPath></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="67.756264"
+       y="110.43425"
+       id="text3074-3"><tspan
+         sodipodi:role="line"
+         id="tspan3072-3"
+         x="67.756264"
+         y="110.43425"
+         style="stroke-width:0.26458332">Check every type property at compile time!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.01792526px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20044813"
+       x="98.536667"
+       y="122.81549"
+       id="text3078-7"><tspan
+         sodipodi:role="line"
+         id="tspan3076-3"
+         x="98.536667"
+         y="122.81549"
+         style="stroke-width:0.20044813">No slag through runtime type checking!</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 130.81654,107.75085 h 21.1319"
+       id="path3124"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 192.03198,120.49715 h 49.6432"
+       id="path3124-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.97995281px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22449882"
+       x="213.0968"
+       y="107.27027"
+       id="text3143"
+       transform="rotate(6.5754709)"><tspan
+         sodipodi:role="line"
+         id="tspan3141"
+         x="213.0968"
+         y="107.27027"
+         style="stroke-width:0.22449882">anything</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.78096008px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.169524"
+       x="201.58554"
+       y="115.2272"
+       id="text3143-4"
+       transform="rotate(6.5754708)"><tspan
+         sodipodi:role="line"
+         id="tspan3141-1"
+         x="201.58554"
+         y="115.2272"
+         style="stroke-width:0.169524">that could have been</tspan><tspan
+         sodipodi:role="line"
+         x="201.58554"
+         y="123.7034"
+         style="stroke-width:0.169524"
+         id="tspan3163">             avoided</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="102.73777"
+       y="83.480309"
+       id="text3074-3-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan3072-3-2-29"
+         x="102.73777"
+         y="83.480309"
+         style="stroke-width:0.26458332">Explain code to ourselves!</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6987,7 +7203,7 @@
          id="tspan2411"
          x="55.345463"
          y="112.24807"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7066,6 +7282,83 @@
        id="path3841-9-8-0-0-0-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer110"
+     inkscape:label="[export] Signatures 7"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.74923611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29373088"
+       x="33.902107"
+       y="30.377172"
+       id="text3090-5-8-02-2-3-8-8-8-4"><tspan
+         sodipodi:role="line"
+         x="33.902107"
+         y="30.377172"
+         style="stroke-width:0.29373088"
+         id="tspan3242-7-8-5-3-7-3-1">[] <tspan
+   style="fill:#6699ff;fill-opacity:1;stroke-width:0.29373088"
+   id="tspan3265-61-3-1-3-9-0-0">::</tspan> (List A).</tspan><tspan
+         sodipodi:role="line"
+         x="33.902107"
+         y="45.063717"
+         style="stroke-width:0.29373088"
+         id="tspan3254-3-8-7-3-6-1-4">(X : XS) <tspan
+   style="fill:#6699ff;fill-opacity:1;stroke-width:0.29373088"
+   id="tspan3303-2-0-4-8-0-7-8">::</tspan> List A      :-  X <tspan
+   style="fill:#6699ff;fill-opacity:1;stroke-width:0.29373088"
+   id="tspan3315-1-4-3-0-4-8-7">::</tspan> A,        XS <tspan
+   style="fill:#6699ff;fill-opacity:1;stroke-width:0.29373088"
+   id="tspan3333-5-0-1-4-1-9-0">::</tspan> List A.</tspan><tspan
+         sodipodi:role="line"
+         x="33.902107"
+         y="59.750263"
+         style="stroke-width:0.29373088"
+         id="tspan2691-9-4-7-0-1-8">True <tspan
+   style="fill:#6699ff;stroke-width:0.29373088"
+   id="tspan2697-1-6-6-4-5-6">::</tspan> Bool.</tspan><tspan
+         sodipodi:role="line"
+         x="33.902107"
+         y="74.436806"
+         style="stroke-width:0.29373088"
+         id="tspan3250-9-2-2-0-0-2-7">False <tspan
+   style="fill:#6699ff;stroke-width:0.29373088"
+   id="tspan2699-6-4-9-7-9-4">::</tspan> Bool.</tspan><tspan
+         sodipodi:role="line"
+         x="33.902107"
+         y="89.123352"
+         style="stroke-width:0.29373088"
+         id="tspan2569-9-5-2-6-8-5-9">null   X            Y         :- (<tspan
+   style="fill:#cc0000;stroke-width:0.29373088"
+   id="tspan2907-6-8-6-7-3">forall</tspan>. X <tspan
+   style="fill:#6699ff;stroke-width:0.29373088"
+   id="tspan2681-4-4-7-2-4-9">::</tspan> List A), (Y <tspan
+   style="fill:#6699ff;stroke-width:0.29373088"
+   id="tspan2683-4-1-9-4-9-8">::</tspan> Bool).</tspan><tspan
+         sodipodi:role="line"
+         x="33.902107"
+         y="103.8099"
+         style="stroke-width:0.29373088"
+         id="tspan4009">null   X            Y         :- (X :: List A), (<tspan
+   style="fill:#cc0000"
+   id="tspan4015">forall</tspan>. Y :: Bool).</tspan><tspan
+         sodipodi:role="line"
+         x="33.902107"
+         y="118.49644"
+         style="stroke-width:0.29373088"
+         id="tspan2673-9-2-0-7-9-3">null   []            True.</tspan><tspan
+         sodipodi:role="line"
+         x="33.902107"
+         y="133.18298"
+         style="stroke-width:0.29373088"
+         id="tspan3248-8-9-8-3-9-4-0">null  (Y : YS)  False.                                             </tspan></text>
+    <path
+       style="display:inline;fill:#0fff00;fill-opacity:1;stroke:#045107;stroke-width:2.08533621;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 155.3421,134.49781 29.37811,19.58537 34.27443,-39.87025 -35.67337,24.48175 z"
+       id="path3839-1-2-2-7"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8723,6 +9016,956 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer21"
+     inkscape:label="[export] Higher Order"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.59106731px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33977669"
+       x="33.114037"
+       y="24.884308"
+       id="text2719"><tspan
+         sodipodi:role="line"
+         id="tspan2717"
+         x="33.114037"
+         y="24.884308"
+         style="stroke-width:0.33977669">Things that functions can...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="54.67461"
+       y="60.018883"
+       id="text2723"><tspan
+         sodipodi:role="line"
+         id="tspan2721"
+         x="54.67461"
+         y="60.018883"
+         style="stroke-width:0.26458332">map <tspan
+   style="fill:#6699ff"
+   id="tspan2729">::</tspan> (F <tspan
+   style="fill:#6699ff"
+   id="tspan2731">::</tspan> A -&gt; B) -&gt; (L <tspan
+   style="fill:#6699ff"
+   id="tspan2733">::</tspan> List A) -&gt; (L' <tspan
+   style="fill:#6699ff"
+   id="tspan2735">::</tspan> List B)</tspan><tspan
+         sodipodi:role="line"
+         x="54.67461"
+         y="73.248047"
+         style="stroke-width:0.26458332"
+         id="tspan2725">map f []            = []</tspan><tspan
+         sodipodi:role="line"
+         x="54.67461"
+         y="86.477219"
+         style="stroke-width:0.26458332"
+         id="tspan2727">map f (X : XS) = (f X) : (map XS)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer31"
+     inkscape:label="[export] Higher Order 1"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.59106731px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33977669"
+       x="33.089912"
+       y="25.147333"
+       id="text2719-4"><tspan
+         sodipodi:role="line"
+         id="tspan2717-4"
+         x="33.089912"
+         y="25.147333"
+         style="stroke-width:0.33977669">Things that functions can...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="54.650475"
+       y="60.28191"
+       id="text2723-4"><tspan
+         sodipodi:role="line"
+         id="tspan2721-7"
+         x="54.650475"
+         y="60.28191"
+         style="stroke-width:0.26458332">map <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan2729-6">::</tspan> (F <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan2731-3">::</tspan> A -&gt; B) -&gt; (L <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan2733-1">::</tspan> List A) -&gt; (L' <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan2735-7">::</tspan> List B)</tspan><tspan
+         sodipodi:role="line"
+         x="54.650475"
+         y="73.511078"
+         style="stroke-width:0.26458332"
+         id="tspan2725-5">map f []            = []</tspan><tspan
+         sodipodi:role="line"
+         x="54.650475"
+         y="86.740242"
+         style="stroke-width:0.26458332"
+         id="tspan2727-9">map f (X : XS) = (f X) : (map XS)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="54.188625"
+       y="120.68162"
+       id="text2723-8-6-1-8"><tspan
+         sodipodi:role="line"
+         id="tspan2721-4-2-8-6"
+         x="54.188625"
+         y="120.68162"
+         style="stroke-width:0.26458332">map <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan2729-8-1-9-0">::</tspan> (F <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan2731-1-7-6-4">::</tspan> (<tspan
+   style="fill:#cc0000;stroke-width:0.26458332"
+   id="tspan2912-8">forall</tspan>. _ :: A) ,(_ :: B)), (L <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan2733-0-8-4-8">::</tspan> List A), (L' <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan2735-3-5-3-8">::</tspan> List B)</tspan><tspan
+         sodipodi:role="line"
+         x="54.188625"
+         y="133.91078"
+         style="stroke-width:0.26458332"
+         id="tspan2725-0-7-3-9">map p []            [].</tspan><tspan
+         sodipodi:role="line"
+         x="54.188625"
+         y="147.13995"
+         style="stroke-width:0.26458332"
+         id="tspan2727-4-4-3-7">map p (X : XS) (X' : Z) :- p X X', map p XS Z</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer98"
+     inkscape:label="[export] Higher Order 2"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="53.297264"
+       y="36.081577"
+       id="text2723-8-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan2721-4-2-8"
+         x="53.297264"
+         y="36.081577"
+         style="stroke-width:0.26458332">map <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan2729-8-1-9">::</tspan> (F <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan2731-1-7-6">::</tspan> (<tspan
+   style="fill:#cc0000"
+   id="tspan2912">forall</tspan>. _ :: A) ,(_ :: B)), (L <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan2733-0-8-4">::</tspan> List A), (L' <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan2735-3-5-3">::</tspan> List B)</tspan><tspan
+         sodipodi:role="line"
+         x="53.297264"
+         y="49.310745"
+         style="stroke-width:0.26458332"
+         id="tspan2725-0-7-3">map p []            [].</tspan><tspan
+         sodipodi:role="line"
+         x="53.297264"
+         y="62.539909"
+         style="stroke-width:0.26458332"
+         id="tspan2727-4-4-3">map p (X : XS) (X' : Z) :- p X X', map p XS Z</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.19405174px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40485129"
+       x="54.579227"
+       y="109.39164"
+       id="text2910"><tspan
+         sodipodi:role="line"
+         id="tspan2908"
+         x="54.579227"
+         y="109.39164"
+         style="stroke-width:0.40485129">X switch Y (Y X).       ?</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer105"
+     inkscape:label="[export] Higher Order 9"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="53.271473"
+       y="36.166763"
+       id="text2723-8-6-1-3"><tspan
+         sodipodi:role="line"
+         id="tspan2721-4-2-8-8"
+         x="53.271473"
+         y="36.166763"
+         style="stroke-width:0.26458332">map <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan2729-8-1-9-04">::</tspan> (F <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan2731-1-7-6-7">::</tspan> (<tspan
+   style="fill:#cc0000;stroke-width:0.26458332"
+   id="tspan2912-6">forall</tspan>. _ :: A) ,(_ :: B)), (L <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan2733-0-8-4-89">::</tspan> List A), (L' <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan2735-3-5-3-0">::</tspan> List B)</tspan><tspan
+         sodipodi:role="line"
+         x="53.271473"
+         y="49.395931"
+         style="stroke-width:0.26458332"
+         id="tspan2725-0-7-3-6">map p []            [].</tspan><tspan
+         sodipodi:role="line"
+         x="53.271473"
+         y="62.625095"
+         style="stroke-width:0.26458332"
+         id="tspan2727-4-4-3-8">map p (X : XS) (X' : Z) :- X p X', map p XS Z</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.19405174px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40485129"
+       x="54.55344"
+       y="109.47683"
+       id="text2910-7"><tspan
+         sodipodi:role="line"
+         id="tspan2908-9"
+         x="54.55344"
+         y="109.47683"
+         style="stroke-width:0.40485129">X switch Y (Y X).       ?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="43.244289"
+       y="154.69449"
+       id="text2955-0"><tspan
+         sodipodi:role="line"
+         id="tspan2953-3"
+         x="43.244289"
+         y="154.69449"
+         style="stroke-width:0.26458332">Problem: Structure of predicates still playes a role.</tspan><tspan
+         sodipodi:role="line"
+         x="43.244289"
+         y="167.92366"
+         style="stroke-width:0.26458332"
+         id="tspan2957-3">                     Not the case for functions with mixfix operators!</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer99"
+     inkscape:label="[export] Higher Order 3"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="14.076439"
+       y="54.937908"
+       id="text2723-4-7"><tspan
+         sodipodi:role="line"
+         x="14.076439"
+         y="54.937908"
+         style="stroke-width:0.26458332"
+         id="tspan2727-9-9">return <tspan
+   style="fill:#6699ff"
+   id="tspan3053">::</tspan> (_ <tspan
+   style="fill:#6699ff"
+   id="tspan3059">::</tspan> A) -&gt; (_ <tspan
+   style="fill:#6699ff"
+   id="tspan3065">::</tspan> Lang A)</tspan><tspan
+         sodipodi:role="line"
+         x="14.076439"
+         y="68.167076"
+         style="stroke-width:0.26458332"
+         id="tspan3029">run       <tspan
+   style="fill:#6699ff"
+   id="tspan3055">::</tspan> (_ <tspan
+   style="fill:#6699ff"
+   id="tspan3061">::</tspan> Lang A) -&gt; (_ <tspan
+   style="fill:#6699ff"
+   id="tspan3067">::</tspan> A)</tspan><tspan
+         sodipodi:role="line"
+         x="14.076439"
+         y="81.39624"
+         style="stroke-width:0.26458332"
+         id="tspan3050">_&gt;&gt;=_ <tspan
+   style="fill:#6699ff"
+   id="tspan3057">::</tspan> (_ <tspan
+   style="fill:#6699ff"
+   id="tspan3063">::</tspan> Lang A) -&gt; (_ <tspan
+   style="fill:#6699ff"
+   id="tspan3069">::</tspan> A -&gt; Lang B) -&gt; (_ <tspan
+   style="fill:#6699ff"
+   id="tspan3071">::</tspan> Lang B) </tspan><tspan
+         sodipodi:role="line"
+         x="14.076439"
+         y="94.625404"
+         style="stroke-width:0.26458332"
+         id="tspan3035" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.59106731px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33977669"
+       x="11.973547"
+       y="22.560057"
+       id="text2719-4-2"><tspan
+         sodipodi:role="line"
+         id="tspan2717-4-5"
+         x="11.973547"
+         y="22.560057"
+         style="stroke-width:0.33977669">Typing other languages!</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer100"
+     inkscape:label="[export] Higher Order 4"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="14.143255"
+       y="55.08757"
+       id="text2723-4-7-4"><tspan
+         sodipodi:role="line"
+         x="14.143255"
+         y="55.08757"
+         style="stroke-width:0.26458332"
+         id="tspan2727-9-9-0">return <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3053-5">::</tspan> (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3059-9">::</tspan> A) -&gt; (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3065-4">::</tspan> Lang A)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143255"
+         y="68.316734"
+         style="stroke-width:0.26458332"
+         id="tspan3029-6">run       <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3055-9">::</tspan> (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3061-2">::</tspan> Lang A) -&gt; (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3067-2">::</tspan> A)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143255"
+         y="81.545906"
+         style="stroke-width:0.26458332"
+         id="tspan3033-4">_&gt;&gt;=_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3057-7">::</tspan> (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3063-7">::</tspan> Lang A) -&gt; (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3069-5">::</tspan> A -&gt; Lang B) -&gt; (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3071-4">::</tspan> Lang B)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143255"
+         y="94.77507"
+         style="stroke-width:0.26458332"
+         id="tspan3037-8" /><tspan
+         sodipodi:role="line"
+         x="14.143255"
+         y="108.00423"
+         style="stroke-width:0.26458332"
+         id="tspan3039-1">left_id <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3073-2">::</tspan> (X <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3075-8">::</tspan> A) -&gt; (Op <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3077-9">::</tspan> A -&gt; Lang B) -&gt; </tspan><tspan
+         sodipodi:role="line"
+         x="14.143255"
+         y="121.2334"
+         style="stroke-width:0.26458332"
+         id="tspan3041-3">                                                       ((return X &gt;&gt;= Op) = Op X)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143255"
+         y="134.46257"
+         style="stroke-width:0.26458332"
+         id="tspan3043-6">right_id <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3079-8">::</tspan> (Op <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3081-0">::</tspan> Lang A) -&gt; ((Op &gt;&gt;= return) = Op)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143255"
+         y="147.69173"
+         style="stroke-width:0.26458332"
+         id="tspan3045-2" /><tspan
+         sodipodi:role="line"
+         x="14.143255"
+         y="160.9209"
+         style="stroke-width:0.26458332"
+         id="tspan3047-1">assoc <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3083-0">::</tspan> (X <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3085-5">::</tspan> Lang A) -&gt; (Y <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3087-1">::</tspan> Lang B) -&gt; (Z <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3089-1">::</tspan> Lang C) -&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="14.143255"
+         y="174.15007"
+         style="stroke-width:0.26458332"
+         id="tspan3050-0">                                              (((X &gt;&gt;= Y) &gt;&gt;= Z) = (X &gt;&gt;= (appl Y) &gt;&gt;= Z) ) )   </tspan><tspan
+         sodipodi:role="line"
+         x="14.143255"
+         y="187.37923"
+         style="stroke-width:0.26458332"
+         id="tspan3035-8" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.59106731px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33977669"
+       x="12.040358"
+       y="22.709717"
+       id="text2719-4-2-5"><tspan
+         sodipodi:role="line"
+         id="tspan2717-4-5-0"
+         x="12.040358"
+         y="22.709717"
+         style="stroke-width:0.33977669">Typing other languages!</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer104"
+     inkscape:label="[export] Higher Order 8"
+     style="display:none">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3611"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion3613"><rect
+           id="rect3615"
+           width="1388.1925"
+           height="840.52209"
+           x="-38.032673"
+           y="-14.030584" /></flowRegion><flowPara
+         id="flowPara3617"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="14.143256"
+       y="55.08757"
+       id="text2723-4-7-4-4"><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="55.08757"
+         style="stroke-width:0.26458332"
+         id="tspan2727-9-9-0-49">return <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3053-5-9">::</tspan> (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3059-9-3">::</tspan> A) -&gt; (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3065-4-6">::</tspan> Lang A)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="68.316734"
+         style="stroke-width:0.26458332"
+         id="tspan3029-6-0">run       <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3055-9-5">::</tspan> (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3061-2-0">::</tspan> Lang A) -&gt; (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3067-2-2">::</tspan> A)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="81.545906"
+         style="stroke-width:0.26458332"
+         id="tspan3033-4-9">_&gt;&gt;=_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3057-7-4">::</tspan> (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3063-7-3">::</tspan> Lang A) -&gt; (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3069-5-5">::</tspan> A -&gt; Lang B) -&gt; (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3071-4-1">::</tspan> Lang B)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="94.77507"
+         style="stroke-width:0.26458332"
+         id="tspan3037-8-7" /><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="108.00423"
+         style="stroke-width:0.26458332"
+         id="tspan3039-1-4">left_id <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3073-2-3">::</tspan> (X <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3075-8-1">::</tspan> A) -&gt; (Op <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3077-9-4">::</tspan> A -&gt; Lang B) -&gt; </tspan><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="121.2334"
+         style="stroke-width:0.26458332"
+         id="tspan3041-3-6">                                                       ((return X &gt;&gt;= Op) = Op X)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="134.46257"
+         style="stroke-width:0.26458332"
+         id="tspan3043-6-9">right_id <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3079-8-4">::</tspan> (Op <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3081-0-2">::</tspan> Lang A) -&gt; ((Op &gt;&gt;= return) = Op)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="147.69173"
+         style="stroke-width:0.26458332"
+         id="tspan3045-2-2" /><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="160.9209"
+         style="stroke-width:0.26458332"
+         id="tspan3047-1-6">assoc <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3083-0-4">::</tspan> (X <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3085-5-1">::</tspan> Lang A) -&gt; (Y <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3087-1-2">::</tspan> Lang B) -&gt; (Z <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3089-1-8">::</tspan> Lang C) -&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="174.15007"
+         style="stroke-width:0.26458332"
+         id="tspan3050-0-8">                                              (((X &gt;&gt;= Y) &gt;&gt;= Z) = (X &gt;&gt;= (appl Y) &gt;&gt;= Z) ) )   </tspan><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="187.37923"
+         style="stroke-width:0.26458332"
+         id="tspan3035-8-9" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.59106731px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33977669"
+       x="12.040359"
+       y="22.709717"
+       id="text2719-4-2-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan2717-4-5-0-8"
+         x="12.040359"
+         y="22.709717"
+         style="stroke-width:0.33977669">Typing other languages! </tspan><tspan
+         sodipodi:role="line"
+         x="12.040359"
+         y="39.698551"
+         style="stroke-width:0.33977669"
+         id="tspan3730">(a.k.a. Monads, Monads, Monads!)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer101"
+     inkscape:label="[export] Higher Order 5"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="14.143254"
+       y="55.087574"
+       id="text2723-4-7-4-6"><tspan
+         sodipodi:role="line"
+         x="14.143254"
+         y="55.087574"
+         style="stroke-width:0.26458332"
+         id="tspan2727-9-9-0-4">return <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3053-5-6">::</tspan> (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3059-9-2">::</tspan> A) -&gt; (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3065-4-5">::</tspan> Lang A)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143254"
+         y="68.316742"
+         style="stroke-width:0.26458332"
+         id="tspan3029-6-8">run       <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3055-9-6">::</tspan> (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3061-2-2">::</tspan> Lang A) -&gt; (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3067-2-8">::</tspan> A)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143254"
+         y="81.545906"
+         style="stroke-width:0.26458332"
+         id="tspan3033-4-4">_&gt;&gt;=_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3057-7-7">::</tspan> (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3063-7-2">::</tspan> Lang A) -&gt; (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3069-5-4">::</tspan> A -&gt; Lang B) -&gt; (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3071-4-0">::</tspan> Lang B)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143254"
+         y="94.77507"
+         style="stroke-width:0.26458332"
+         id="tspan3037-8-6" /><tspan
+         sodipodi:role="line"
+         x="14.143254"
+         y="108.00424"
+         style="stroke-width:0.26458332"
+         id="tspan3039-1-2">left_id <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3073-2-9">::</tspan> (X <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3075-8-9">::</tspan> A) -&gt; (Op <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3077-9-0">::</tspan> A -&gt; Lang B) -&gt; </tspan><tspan
+         sodipodi:role="line"
+         x="14.143254"
+         y="121.23341"
+         style="stroke-width:0.26458332"
+         id="tspan3041-3-8">                                                       ((return X &gt;&gt;= Op) = Op X)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143254"
+         y="134.46257"
+         style="stroke-width:0.26458332"
+         id="tspan3043-6-1">right_id <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3079-8-3">::</tspan> (Op <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3081-0-1">::</tspan> Lang A) -&gt; ((Op &gt;&gt;= return) = Op)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143254"
+         y="147.69174"
+         style="stroke-width:0.26458332"
+         id="tspan3045-2-1" /><tspan
+         sodipodi:role="line"
+         x="14.143254"
+         y="160.9209"
+         style="stroke-width:0.26458332"
+         id="tspan3047-1-0">assoc <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3083-0-3">::</tspan> (X <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3085-5-4">::</tspan> Lang A) -&gt; (Y <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3087-1-0">::</tspan> Lang B) -&gt; (Z <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3089-1-3">::</tspan> Lang C) -&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="14.143254"
+         y="174.15007"
+         style="stroke-width:0.26458332"
+         id="tspan3050-0-9">                                              (((X &gt;&gt;= Y) &gt;&gt;= Z) = (X &gt;&gt;= (appl Y) &gt;&gt;= Z) ) )   </tspan><tspan
+         sodipodi:role="line"
+         x="14.143254"
+         y="187.37924"
+         style="stroke-width:0.26458332"
+         id="tspan3035-8-1" /></text>
+    <path
+       style="fill:none;stroke:#a00000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 281.7587,13.39452 V 83.834199"
+       id="path3373"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#9c009a;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 281.42329,101.61184 v 58.02887"
+       id="path3373-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="292.4924"
+       y="51.633202"
+       id="text3392"><tspan
+         sodipodi:role="line"
+         id="tspan3390"
+         x="292.4924"
+         y="51.633202"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Types!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="294.16949"
+       y="133.81282"
+       id="text3396"><tspan
+         sodipodi:role="line"
+         id="tspan3394"
+         x="294.16949"
+         y="133.81282"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Proofs!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.59106731px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33977669"
+       x="12.122116"
+       y="22.723137"
+       id="text2719-4-2-5-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan2717-4-5-0-8-8"
+         x="12.122116"
+         y="22.723137"
+         style="stroke-width:0.33977669">Typing other languages! </tspan><tspan
+         sodipodi:role="line"
+         x="12.122116"
+         y="39.711971"
+         style="stroke-width:0.33977669"
+         id="tspan3730-6">(a.k.a. Monads, Monads, Monads!)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer102"
+     inkscape:label="[export] Higher Order 6"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="14.143256"
+       y="55.08757"
+       id="text2723-4-7-4-6-7"><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="55.08757"
+         style="stroke-width:0.26458332"
+         id="tspan2727-9-9-0-4-5">return <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3053-5-6-6">::</tspan> (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3059-9-2-9">::</tspan> A) -&gt; (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3065-4-5-8">::</tspan> Lang A)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="68.316734"
+         style="stroke-width:0.26458332"
+         id="tspan3029-6-8-7">run       <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3055-9-6-2">::</tspan> (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3061-2-2-8">::</tspan> Lang A) -&gt; (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3067-2-8-2">::</tspan> A)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="81.545906"
+         style="stroke-width:0.26458332"
+         id="tspan3033-4-4-9">_&gt;&gt;=_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3057-7-7-9">::</tspan> (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3063-7-2-6">::</tspan> Lang A) -&gt; (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3069-5-4-0">::</tspan> A -&gt; Lang B) -&gt; (_ <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3071-4-0-2">::</tspan> Lang B)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="94.77507"
+         style="stroke-width:0.26458332"
+         id="tspan3037-8-6-7" /><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="108.00423"
+         style="stroke-width:0.26458332"
+         id="tspan3039-1-2-6">left_id <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3073-2-9-1">::</tspan> (X <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3075-8-9-3">::</tspan> A) -&gt; (Op <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3077-9-0-2">::</tspan> A -&gt; Lang B) -&gt; </tspan><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="121.2334"
+         style="stroke-width:0.26458332"
+         id="tspan3041-3-8-1">                                                       ((return X &gt;&gt;= Op) = Op X)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="134.46257"
+         style="stroke-width:0.26458332"
+         id="tspan3043-6-1-5">right_id <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3079-8-3-9">::</tspan> (Op <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3081-0-1-9">::</tspan> Lang A) -&gt; ((Op &gt;&gt;= return) = Op)</tspan><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="147.69173"
+         style="stroke-width:0.26458332"
+         id="tspan3045-2-1-1" /><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="160.9209"
+         style="stroke-width:0.26458332"
+         id="tspan3047-1-0-4">assoc <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3083-0-3-9">::</tspan> (X <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3085-5-4-1">::</tspan> Lang A) -&gt; (Y <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3087-1-0-0">::</tspan> Lang B) -&gt; (Z <tspan
+   style="fill:#6699ff;stroke-width:0.26458332"
+   id="tspan3089-1-3-7">::</tspan> Lang C) -&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="174.15007"
+         style="stroke-width:0.26458332"
+         id="tspan3050-0-9-5">                                              (((X &gt;&gt;= Y) &gt;&gt;= Z) = (X &gt;&gt;= (appl Y) &gt;&gt;= Z) ) )   </tspan><tspan
+         sodipodi:role="line"
+         x="14.143256"
+         y="187.37923"
+         style="stroke-width:0.26458332"
+         id="tspan3035-8-1-8" /></text>
+    <path
+       style="display:inline;fill:none;stroke:#a00000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 281.7587,13.394519 v 70.43968"
+       id="path3373-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:#9c009a;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 281.42329,101.61184 v 58.02887"
+       id="path3373-9-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="292.49237"
+       y="51.633194"
+       id="text3392-0"><tspan
+         sodipodi:role="line"
+         id="tspan3390-4"
+         x="292.49237"
+         y="51.633194"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Types!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="294.16946"
+       y="133.81281"
+       id="text3396-2"><tspan
+         sodipodi:role="line"
+         id="tspan3394-9"
+         x="294.16946"
+         y="133.81281"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Proofs!</tspan></text>
+    <ellipse
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#060006;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path3573"
+       cx="174.03375"
+       cy="78.551773"
+       rx="1.9419369"
+       ry="10.604851"
+       transform="rotate(-0.74827003)" />
+    <ellipse
+       style="display:inline;fill:url(#linearGradient4653-9-3-7-0);fill-opacity:1;stroke:#000000;stroke-width:1.32291663;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path4607-2-5-4-2"
+       cx="149.8047"
+       cy="108.10607"
+       rx="18.976137"
+       ry="20.579754"
+       transform="rotate(-14.440865)" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 172.39895,78.918139 c -9.96987,14.399542 -5.70399,26.787361 7.21859,22.128991 31.36467,10.78853 20.94907,-26.988873 3.53423,-25.212183"
+       id="path4659-1-4-9-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 175.91514,88.541827 c 6.7527,20.306103 9.32725,38.087293 0,52.137473"
+       id="path4655-7-0-1-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 137.16105,177.82978 c 11.14645,-14.02855 18.38418,-31.68659 38.75409,-37.15048 22.85855,3.37981 27.58312,21.26682 37.15046,35.2796"
+       id="path4657-5-4-7-55"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 172.89865,46.491105 c -2.52204,-8.0621 -10.57786,-15.26898 -27.88787,-6.58586"
+       id="path9178-0-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 164.29667,48.594995 c -11.8969,-5.35733 -21.02783,-3.6261 -27.34006,9.23737"
+       id="path9180-8-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 155.50837,56.407945 c -5.86867,-5.0023 -14.4957,-0.54778 -13.9495,13.182312"
+       id="path9182-5-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 152.84557,64.933195 c -6.4924,-2.7212 -8.03244,11.188142 -2.95873,15.176712"
+       id="path9184-3-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.59106731px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33977669"
+       x="12.122119"
+       y="23.058563"
+       id="text2719-4-2-5-2-83"><tspan
+         sodipodi:role="line"
+         id="tspan2717-4-5-0-8-83"
+         x="12.122119"
+         y="23.058563"
+         style="stroke-width:0.33977669">Typing other languages! </tspan><tspan
+         sodipodi:role="line"
+         x="12.122119"
+         y="40.047398"
+         style="stroke-width:0.33977669"
+         id="tspan3730-3">(a.k.a. Monads, Monads, Monads!)</tspan></text>
+    <path
+       style="display:inline;opacity:0.98999999;fill:#ffffff;fill-opacity:0.99701496;fill-rule:evenodd;stroke:#000000;stroke-width:2.06215239;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 179.9907,51.139902 20.05779,-5.205317 a 18.848871,42.193801 89.488715 0 0 24.88879,3.420424 18.848871,42.193801 89.488715 0 0 42.02387,-19.224394 18.848871,42.193801 89.488715 0 0 -42.36026,-18.471366 18.848871,42.193801 89.488715 0 0 -42.02389,19.224397 18.848871,42.193801 89.488715 0 0 3.21339,7.083733 z"
+       id="path4424-5"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="194.21225"
+       y="27.147028"
+       id="text3577"><tspan
+         sodipodi:role="line"
+         id="tspan3575"
+         x="194.21225"
+         y="27.147028"
+         style="stroke-width:0.26458332">They are the </tspan><tspan
+         sodipodi:role="line"
+         x="194.21225"
+         y="40.376194"
+         style="stroke-width:0.26458332"
+         id="tspan3579"> same thing!</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer103"
+     inkscape:label="[export] Higher Order 7"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="59.03516"
+       y="95.574142"
+       id="text3608"><tspan
+         sodipodi:role="line"
+         id="tspan3606"
+         x="59.03516"
+         y="95.574142"
+         style="stroke-width:0.26458332">Maybe next time, we can search for proofs?</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer60"
      inkscape:label="[export] Review"
      style="display:none">
@@ -9706,7 +10949,7 @@
      inkscape:groupmode="layer"
      id="layer97"
      inkscape:label="[export] Compilation 5"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.38434792px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40960869"
