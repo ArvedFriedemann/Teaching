@@ -1,0 +1,47 @@
+Towards Clause Learning Mechanics for General Recursive Declarative Languages
+
+I think every language should have a feature to make it run backwards. An example of what I mean by that: Imagine you have a bug and you want to find the parts of your code that it happened in. You could just write a condition of how the bug can be observed and then ask how your program would move towards it, using the stack trace e.g. If now our program can use the results of this debugging process, debugging itself can become part of our semantics. Take a program e.g. that checks whether a list has the length n. If another part of our program, say, a buffer, needs a list of a certain length, we don't give it the boolean result of the check, but we fix it, reverse the function, and give the result to the buffer. The power and inner workings of such semantics can be best visualised by writing a sudoku solver.
+
+A sudoku is a grid of nine times nine values. A solutions is an assignment to these values such that all rows, columns and disjoined three times three sub squares have the numbers 1 to 9 only exactly once. To solve this using our "debugger", we can write a program that checks if a given assignment is a solution, and then we reverse the function and ask for possible inputs.
+To ease representation in this example, we only work in a three times three grid that we fill with the numbers 1 to 3, such that all rows and columns have each number only exactly once. In a proper declarative language, a program to create such an assignment would use six constraints acting on the nine values of the grid. Each constraint checks whether the three values it is placed on have each number only exactly once. The aim of this talk is to design a language, where in fact writing these constraints is sufficient to derive the solving program.
+
+Before we continue, let's keep in the back of our minds how what we see is a representation of a computers memory, with the constraints being program instructions acting on this memory. We will see in a second how this is useful to generalise the solving techniques.
+
+To solve this mini-sudoku, one could sure just test all possibilities of the unassigned values, but that would, in fact, not be practical. Instead, to cut down the possibilities, we could give each constraint the ability to notify when it can uniquely determine a value. This happens exactly when, from the three values it observes, only one is unassigned. We place the missing value into the grid. Furthermore, placing a value into the grid can now potentially wake up other constraints, that observe this value. If now, they get to deduce a value, they place it into the grid again and notify the next constraints and so on. This process will be called unit propagation, derived from the SAT-Solving technique with the same name. If an address in the grid is assigned to two different values, we know that there is a conflict and therefore no solution. Please keep in mind that not alle values can necessarily be deduced using this technique, we will get to the point of solving this issue in a second.
+
+Let's have a closer look on what this means for general programming languages. Each language is in fact a tool to transform memory, being a set of addresses that are assigned a value. The constraints need to be powerful enough, such that they can observe part of our memory and transform it. The easiest form of constraints would be those that take some conjunction of addresses and values and deduce another of those conjunctions, which is fancy a way to describe the modus ponens on assembly level. Let's have a look on commonly used sets of possible constraints.
+
+Instruction      |    Mnemonic     | Action on register(s) "r" | Action on finite state machine's Instruction Register, IR
+COPY             | COPY (r1, r2)   |    [r1] → r2              | [IR] + 1 → IR
+INCrement        | INC ( r )       |    [r] + 1 → r            | [IR] + 1 → IR
+Jump if Equal    |    JE (r1, r2, z)   |    none               | IF [r1] = [r2] THEN z → IR ELSE [IR] + 1 → IR
+Halt             |    H            |    none                   | [IR] → IR
+
+This is the instruction set of Elgot-Robinsons Random Access Machine (RAM). It can copy values, move pointers, branch and halt. Each of these instructions formulates a constraint on the memory, here, in the form of registers. Please note that in order to translate this into our easy constraint from from before, there need to be a few modifications made (e.g. considering the Program Counter, or here, Instruction Register, or using immutable memory with timestamps), but this would get rather technical and will be ommitted here. It is just important that parts of a program are equivalent to constraints on memory.
+
+Furthermore, it should be noted how, in real world programs, also the program itself lays somewhere in the memory. This is known as a Random Access Stored Program (RASP) machine, and is a useful fact that has been observed by Cook and Reckhow (1972). The takeaway message for solvers here is: We can also put constraints on constraints. We can deduce programs the very same way as we can deduce numbers for a sudoku.
+
+The first step of lifting any language to become a declarative language is to let it run in a setting where its memory can be unassigned. An instruction is only executed if its arguments are already sufficiently assigned. After unit propagation, a half evaluated term can remain.
+
+The next big step in developing this technology is to formulate what happens after the unit propagation has happened. In the SAT-Solving area there are two further big branches, being heuristics for choosing values and clause learning. For the technology in this talk, something inbetween these two mecahnisms is formulated.
+
+Let's look at a language term that cannot be further evaluated by unit propagation. This term can still have unassigned values. A possible use of such a term would be to deduce an assignment for these values. As there could be several different assignments, it is safe to say that even an optimal solver could produce an only half evaluated term to preserve all assignments. What could be done differently though is to return a term in wich all assignments can be deduced within a certain, or even optimal, time. If it is assumed that the extraction of a concrete assignment is done by a program running itself on unit propagation, achieving a faster extraction time can only happen by adding more constraints to the term to ensure that the unit propagation filters out unnecessary search. This would mean, that the term after the search should be one where assigning any variable to a not directly impossible value can always end up as part of a solution. Furthermore, after unit propagating such an assignment, the term still satisfies this property. This is similar to the SAT concept of optimally propagating encodings.
+
+This comes with a few problems concerning complexity. Such a term might end up exponential in size and, respectively, no faster to evaluate. Therefore, a new clause is only added to the term if it were to speed up the querying process (measured by an implementation of the unit propagation and the best currently known search engine).
+
+To ensure that this is working correctly, proof theory can be used  
+
+
+
+Sources:
+
+Elgot-Robinson RAM:
+Calvin Elgot and Abraham Robinson (1964), Random-Access Stored-Program Machines, an Approach to Programming Languages, Journal of the Association for Computing Machinery, Vol. 11, No. 4 (October, 1964), pp. 365–399.
+https://link.springer.com/chapter/10.1007/978-1-4613-8177-8_2
+
+RASP:
+Stephen A. Cook and Robert A. Reckhow (1972), Time-bounded random access machines, Journal of Computer Systems Science 7 (1973), 354-375.
+
+
+Optimally propagating:
+https://www.ruediger-ehlers.de/papers/sat2018.pdf
