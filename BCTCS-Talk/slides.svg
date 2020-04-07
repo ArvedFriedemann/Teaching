@@ -2760,7 +2760,7 @@
      inkscape:cx="987.87239"
      inkscape:cy="498.09144"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer57"
+     inkscape:current-layer="layer37"
      showgrid="false"
      units="px"
      inkscape:window-width="1850"
@@ -3467,7 +3467,7 @@
            height="309.10669"
            x="1383.9089"
            y="708.26385" /></flowRegion><flowPara
-         id="flowPara16399"></flowPara></flowRoot>  </g>
+         id="flowPara16399" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer63"
@@ -31251,7 +31251,7 @@
          id="tspan26483-3"
          x="53.373058"
          y="81.00885"
-         style="stroke-width:0.26458332">increment : Ptr -&gt; RAMIns</tspan></text>
+         style="stroke-width:0.26458332">increment : Ptr -&gt; RAMIns Ptr</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -31262,7 +31262,7 @@
          id="tspan26483-3-5"
          x="53.214306"
          y="66.694336"
-         style="stroke-width:0.26458332">halt : RAMIns</tspan></text>
+         style="stroke-width:0.26458332">halt : RAMIns Ptr</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -31273,7 +31273,7 @@
          id="tspan26483-3-2"
          x="53.648224"
          y="94.889442"
-         style="stroke-width:0.26458332">copy : Ptr -&gt; Ptr -&gt; RAMIns</tspan></text>
+         style="stroke-width:0.26458332">copy : Ptr -&gt; Ptr -&gt; RAMIns Ptr</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -31284,68 +31284,13 @@
          id="tspan26483-3-2-9"
          x="54.653641"
          y="111.99795"
-         style="stroke-width:0.26458332">jump-if_eq_to_: (eq1 : Ptr) -&gt; (eq2 : Ptr) -&gt; (target : Ptr) -&gt; RAMIns</tspan></text>
+         style="stroke-width:0.26458332">jump-if_eq_to_: (eq1 : Ptr) -&gt; (eq2 : Ptr) -&gt; (target : Ptr) -&gt; RAMIns Ptr</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer83"
      inkscape:label="[export] Language 8"
      style="display:none">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="27.79603"
-       y="44.67289"
-       id="text26485-4"><tspan
-         sodipodi:role="line"
-         id="tspan26483-2"
-         x="27.79603"
-         y="44.67289"
-         style="stroke-width:0.26458332">data RAMIns (Ptr : Set)  : Set where</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="53.373058"
-       y="81.00885"
-       id="text26485-7-89"><tspan
-         sodipodi:role="line"
-         id="tspan26483-3-7"
-         x="53.373058"
-         y="81.00885"
-         style="stroke-width:0.26458332">increment : Ptr -&gt; RAMIns</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="53.214306"
-       y="66.694336"
-       id="text26485-7-8-2"><tspan
-         sodipodi:role="line"
-         id="tspan26483-3-5-0"
-         x="53.214306"
-         y="66.694336"
-         style="stroke-width:0.26458332">halt : RAMIns</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="53.64822"
-       y="94.889442"
-       id="text26485-7-87-34"><tspan
-         sodipodi:role="line"
-         id="tspan26483-3-2-0"
-         x="53.64822"
-         y="94.889442"
-         style="stroke-width:0.26458332">copy : Ptr -&gt; Ptr -&gt; RAMIns</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="54.653645"
-       y="111.99796"
-       id="text26485-7-87-8-2"><tspan
-         sodipodi:role="line"
-         id="tspan26483-3-2-9-6"
-         x="54.653645"
-         y="111.99796"
-         style="stroke-width:0.26458332">jump-if_eq_to_: (eq1 : Ptr) -&gt; (eq2 : Ptr) -&gt; (target : Ptr) -&gt; RAMIns</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -31390,67 +31335,67 @@
          y="202.16034"
          style="stroke-width:0.26458332"
          id="tspan26753-8-7">step mem ctr ...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="27.924639"
+       y="44.484749"
+       id="text26485-89"><tspan
+         sodipodi:role="line"
+         id="tspan26483-0"
+         x="27.924639"
+         y="44.484749"
+         style="stroke-width:0.26458332">data RAMIns (Ptr : Set)  : Set where</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="53.501667"
+       y="80.820717"
+       id="text26485-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan26483-3-8"
+         x="53.501667"
+         y="80.820717"
+         style="stroke-width:0.26458332">increment : Ptr -&gt; RAMIns Ptr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="53.342915"
+       y="66.506203"
+       id="text26485-7-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan26483-3-5-90"
+         x="53.342915"
+         y="66.506203"
+         style="stroke-width:0.26458332">halt : RAMIns Ptr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="53.776836"
+       y="94.701309"
+       id="text26485-7-87-33"><tspan
+         sodipodi:role="line"
+         id="tspan26483-3-2-3"
+         x="53.776836"
+         y="94.701309"
+         style="stroke-width:0.26458332">copy : Ptr -&gt; Ptr -&gt; RAMIns Ptr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="54.782253"
+       y="111.80982"
+       id="text26485-7-87-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan26483-3-2-9-32"
+         x="54.782253"
+         y="111.80982"
+         style="stroke-width:0.26458332">jump-if_eq_to_: (eq1 : Ptr) -&gt; (eq2 : Ptr) -&gt; (target : Ptr) -&gt; RAMIns Ptr</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer84"
      inkscape:label="[export] Language 9"
      style="display:none">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="27.796034"
-       y="44.672886"
-       id="text26485-8"><tspan
-         sodipodi:role="line"
-         id="tspan26483-00"
-         x="27.796034"
-         y="44.672886"
-         style="stroke-width:0.26458332">data RAMIns (Ptr : Set)  : Set where</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="53.373058"
-       y="81.008858"
-       id="text26485-7-7"><tspan
-         sodipodi:role="line"
-         id="tspan26483-3-01"
-         x="53.373058"
-         y="81.008858"
-         style="stroke-width:0.26458332">increment : Ptr -&gt; RAMIns</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="53.214306"
-       y="66.694336"
-       id="text26485-7-8-37"><tspan
-         sodipodi:role="line"
-         id="tspan26483-3-5-4"
-         x="53.214306"
-         y="66.694336"
-         style="stroke-width:0.26458332">halt : RAMIns</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="53.648228"
-       y="94.889442"
-       id="text26485-7-87-9"><tspan
-         sodipodi:role="line"
-         id="tspan26483-3-2-07"
-         x="53.648228"
-         y="94.889442"
-         style="stroke-width:0.26458332">copy : Ptr -&gt; Ptr -&gt; RAMIns</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="54.653645"
-       y="111.99795"
-       id="text26485-7-87-8-8"><tspan
-         sodipodi:role="line"
-         id="tspan26483-3-2-9-3"
-         x="54.653645"
-         y="111.99795"
-         style="stroke-width:0.26458332">jump-if_eq_to_: (eq1 : Ptr) -&gt; (eq2 : Ptr) -&gt; (target : Ptr) -&gt; RAMIns</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -31506,67 +31451,67 @@
          x="28.069502"
          y="240.52887"
          style="stroke-width:0.26458332">unit-prop : Memory -&gt; List Ptr -&gt; Tuple Memory (List Ptr)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="27.924641"
+       y="44.484749"
+       id="text26485-6"><tspan
+         sodipodi:role="line"
+         id="tspan26483-5"
+         x="27.924641"
+         y="44.484749"
+         style="stroke-width:0.26458332">data RAMIns (Ptr : Set)  : Set where</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="53.501667"
+       y="80.820717"
+       id="text26485-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan26483-3-6"
+         x="53.501667"
+         y="80.820717"
+         style="stroke-width:0.26458332">increment : Ptr -&gt; RAMIns Ptr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="53.342915"
+       y="66.506203"
+       id="text26485-7-8-5"><tspan
+         sodipodi:role="line"
+         id="tspan26483-3-5-8"
+         x="53.342915"
+         y="66.506203"
+         style="stroke-width:0.26458332">halt : RAMIns Ptr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="53.776829"
+       y="94.701309"
+       id="text26485-7-87-7"><tspan
+         sodipodi:role="line"
+         id="tspan26483-3-2-96"
+         x="53.776829"
+         y="94.701309"
+         style="stroke-width:0.26458332">copy : Ptr -&gt; Ptr -&gt; RAMIns Ptr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="54.782246"
+       y="111.80981"
+       id="text26485-7-87-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan26483-3-2-9-4"
+         x="54.782246"
+         y="111.80981"
+         style="stroke-width:0.26458332">jump-if_eq_to_: (eq1 : Ptr) -&gt; (eq2 : Ptr) -&gt; (target : Ptr) -&gt; RAMIns Ptr</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer85"
      inkscape:label="[export] Language 10"
      style="display:none">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="27.796026"
-       y="44.672886"
-       id="text26485-1"><tspan
-         sodipodi:role="line"
-         id="tspan26483-04"
-         x="27.796026"
-         y="44.672886"
-         style="stroke-width:0.26458332">data RAMIns (Ptr : Set)  : Set where</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="53.373062"
-       y="81.00885"
-       id="text26485-7-875"><tspan
-         sodipodi:role="line"
-         id="tspan26483-3-1"
-         x="53.373062"
-         y="81.00885"
-         style="stroke-width:0.26458332">increment : Ptr -&gt; RAMIns</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="53.21431"
-       y="66.694336"
-       id="text26485-7-8-9"><tspan
-         sodipodi:role="line"
-         id="tspan26483-3-5-9"
-         x="53.21431"
-         y="66.694336"
-         style="stroke-width:0.26458332">halt : RAMIns</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="53.648224"
-       y="94.889442"
-       id="text26485-7-87-2"><tspan
-         sodipodi:role="line"
-         id="tspan26483-3-2-70"
-         x="53.648224"
-         y="94.889442"
-         style="stroke-width:0.26458332">copy : Ptr -&gt; Ptr -&gt; RAMIns</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="54.653641"
-       y="111.99795"
-       id="text26485-7-87-8-6"><tspan
-         sodipodi:role="line"
-         id="tspan26483-3-2-9-1"
-         x="54.653641"
-         y="111.99795"
-         style="stroke-width:0.26458332">jump-if_eq_to_: (eq1 : Ptr) -&gt; (eq2 : Ptr) -&gt; (target : Ptr) -&gt; RAMIns</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -31650,16 +31595,71 @@
          id="tspan2613-7">               or use functional language core)</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DotS-0-4-5);marker-end:url(#TriangleOutS-1-89)"
-       d="m 247.49158,53.225511 -63.61014,20.84702"
+       d="M 247.49158,53.225511 195.6413,69.796219"
        id="path26867-58"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="27.924641"
+       y="44.49012"
+       id="text26485-1"><tspan
+         sodipodi:role="line"
+         id="tspan26483-04"
+         x="27.924641"
+         y="44.49012"
+         style="stroke-width:0.26458332">data RAMIns (Ptr : Set)  : Set where</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="53.501671"
+       y="80.82608"
+       id="text26485-7-870"><tspan
+         sodipodi:role="line"
+         id="tspan26483-3-86"
+         x="53.501671"
+         y="80.82608"
+         style="stroke-width:0.26458332">increment : Ptr -&gt; RAMIns Ptr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="53.342915"
+       y="66.511574"
+       id="text26485-7-8-2"><tspan
+         sodipodi:role="line"
+         id="tspan26483-3-5-4"
+         x="53.342915"
+         y="66.511574"
+         style="stroke-width:0.26458332">halt : RAMIns Ptr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="53.776833"
+       y="94.706673"
+       id="text26485-7-87-79"><tspan
+         sodipodi:role="line"
+         id="tspan26483-3-2-39"
+         x="53.776833"
+         y="94.706673"
+         style="stroke-width:0.26458332">copy : Ptr -&gt; Ptr -&gt; RAMIns Ptr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="54.782253"
+       y="111.8152"
+       id="text26485-7-87-8-2"><tspan
+         sodipodi:role="line"
+         id="tspan26483-3-2-9-8"
+         x="54.782253"
+         y="111.8152"
+         style="stroke-width:0.26458332">jump-if_eq_to_: (eq1 : Ptr) -&gt; (eq2 : Ptr) -&gt; (target : Ptr) -&gt; RAMIns Ptr</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer37"
      inkscape:label="[export] Language 1"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -31670,7 +31670,7 @@
          id="tspan26483-6"
          x="27.796032"
          y="44.67289"
-         style="stroke-width:0.26458332">data RAMIns (Ptr : Set)  : Set where</tspan></text>
+         style="stroke-width:0.26458332">data RAMIns : Set where</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -35612,7 +35612,7 @@
      inkscape:groupmode="layer"
      id="layer58"
      inkscape:label="[export] Summary 3"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:21.33448601px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53336215"

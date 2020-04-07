@@ -46,9 +46,7 @@ It should be noted here that there is a slight complication with one of the inst
 This raw RAM machine is kinda bulky to make an actual language, but it has few instructions, easing the implementation. One feature however, that would greatly enhance readability of the language is, that, as mentioned before, a variable should not just hold a pointer, but an arbitrary instruction or constraint. This eases any kind of higher order semantics. This is a sketch how a low level language that has this higher order feature could look like. There is an instruction "assign-new" that creates a new constraint with a given constructor at a given location. As each constraint is a sort of tuple filled with pointers, all pointers now point to new locations. To access these pointers and set them to a desired value, there are accessor functions provided. Please note how this would need a small type system to work, we just assumes unit propagation derives a conflict in case a non existing value is accessed.
 
 Implementation details aside: No matter what base language is chosen, with this technique we can already create languages with stronger search properties than PROLOG! Try it out. Both depth first and breadth first search have examples where they are slow at that could have been fast under unit propagation.
-Also, the construction of just taking any language and interrupting its computation when the inputs to the instructions have not been fully instantiated works for any programming language, so we get the theorem that
-
-We now created a programming language that already has stronger search features than classical logical languages like PROLOG. Please also observe that this turned out to be quite easy. Just take an existing programming languages and allow it to stop its computation when needed values have not yet been assigned, treating its instructions like constraints. This results in a theorem that every general recursive language can be transformed into an equaly general recursive unit propagating search engine. Asterisk: If the language is enhanced to be able to express free variables. This is the first result of this research.
+Also, the construction of just taking any language and interrupting its computation when the inputs to the instructions have not been fully instantiated works for any programming language, so we get the theorem that every general recursive language can be transformed into an equaly general recursive unit propagating search engine. Asterisk: If the language is enhanced to be able to express free variables. This is the first result of this research.
 
 This can now be further enhanced. If unit propagation were to suffice for good search, whole branches of theoretical computer science would not need to exist. So what about the cases where unit propagation does not succeed?
 
@@ -73,5 +71,6 @@ As of my personal state in implementing the language: One current aim is to crea
 But most important takeaway:
 The concept is ready.
 We just need to build it.
+
 
 Thank you for your attention. Please ask questions.
